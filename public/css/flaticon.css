@@ -1,0 +1,213 @@
+/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 28/08/2020 04:49
+  	*/
+
+      @font-face {
+        font-family: "Flaticon";
+        src: url("../flaticon/Flaticon.eot");
+        src: url("../flaticon/Flaticon.eot?#iefix") format("embedded-opentype"),
+             url("../flaticon/Flaticon.woff2") format("woff2"),
+             url("../flaticon/Flaticon.woff") format("woff"),
+             url("../flaticon/Flaticon.ttf") format("truetype");
+        font-weight: normal;
+        font-style: normal;
+      }
+      
+      /* REMOVE the SVG fallback media query */
+      [class^="dsvy-cardioly-icon-"]:before,
+      [class*=" dsvy-cardioly-icon-"]:before,
+      [class^="dsvy-cardioly-icon-"]:after,
+      [class*=" dsvy-cardioly-icon-"]:after {
+        font-family: "Flaticon";
+        font-style: normal;
+      }
+      
+
+@media screen and (-webkit-min-device-pixel-ratio: 0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+.dsvy-cardioly-icon-pdf-file:before {
+  content: "\f100";
+}
+.dsvy-cardioly-icon-doc:before {
+  content: "\f101";
+}
+.dsvy-cardioly-icon-support:before {
+  content: "\f102";
+}
+.dsvy-cardioly-icon-speech-bubble:before {
+  content: "\f103";
+}
+.dsvy-cardioly-icon-comment:before {
+  content: "\f104";
+}
+.dsvy-cardioly-icon-phone-call:before {
+  content: "\f105";
+}
+.dsvy-cardioly-icon-doctor:before {
+  content: "\f106";
+}
+.dsvy-cardioly-icon-stethoscope:before {
+  content: "\f107";
+}
+.dsvy-cardioly-icon-cardiogram:before {
+  content: "\f108";
+}
+.dsvy-cardioly-icon-heart:before {
+  content: "\f109";
+}
+.dsvy-cardioly-icon-care:before {
+  content: "\f10a";
+}
+.dsvy-cardioly-icon-support-1:before {
+  content: "\f10b";
+}
+.dsvy-cardioly-icon-heart-1:before {
+  content: "\f10c";
+}
+.dsvy-cardioly-icon-cardiogram-1:before {
+  content: "\f10d";
+}
+.dsvy-cardioly-icon-heart-rate:before {
+  content: "\f10e";
+}
+.dsvy-cardioly-icon-blood-pressure-gauge:before {
+  content: "\f10f";
+}
+.dsvy-cardioly-icon-cardiology:before {
+  content: "\f110";
+}
+.dsvy-cardioly-icon-surgery:before {
+  content: "\f111";
+}
+.dsvy-cardioly-icon-organ-transplantation:before {
+  content: "\f112";
+}
+.dsvy-cardioly-icon-work-from-home:before {
+  content: "\f113";
+}
+.dsvy-cardioly-icon-charity:before {
+  content: "\f114";
+}
+.dsvy-cardioly-icon-hospital:before {
+  content: "\f115";
+}
+.dsvy-cardioly-icon-ambulance:before {
+  content: "\f116";
+}
+.dsvy-cardioly-icon-hospital-bed:before {
+  content: "\f117";
+}
+.dsvy-cardioly-icon-customer-service:before {
+  content: "\f118";
+}
+.dsvy-cardioly-icon-medical-symbol:before {
+  content: "\f119";
+}
+.dsvy-cardioly-icon-online-appointment:before {
+  content: "\f11a";
+}
+.dsvy-cardioly-icon-checkup:before {
+  content: "\f11b";
+}
+.dsvy-cardioly-icon-heartbeat:before {
+  content: "\f11c";
+}
+.dsvy-cardioly-icon-vaccine:before {
+  content: "\f11d";
+}
+.dsvy-cardioly-icon-medicine:before {
+  content: "\f11e";
+}
+.dsvy-cardioly-icon-patient:before {
+  content: "\f11f";
+}
+.dsvy-cardioly-icon-health-report:before {
+  content: "\f120";
+}
+.dsvy-cardioly-icon-medical-history:before {
+  content: "\f121";
+}
+.dsvy-cardioly-icon-examination:before {
+  content: "\f122";
+}
+.dsvy-cardioly-icon-medical-insurance:before {
+  content: "\f123";
+}
+.dsvy-cardioly-icon-heart-rate-1:before {
+  content: "\f124";
+}
+.dsvy-cardioly-icon-document:before {
+  content: "\f125";
+}
+.dsvy-cardioly-icon-x-ray:before {
+  content: "\f126";
+}
+.dsvy-cardioly-icon-incubator:before {
+  content: "\f127";
+}
+.dsvy-cardioly-icon-heart-attack:before {
+  content: "\f128";
+}
+.dsvy-cardioly-icon-heart-rate-monitor:before {
+  content: "\f129";
+}
+.dsvy-cardioly-icon-blood-transfusion:before {
+  content: "\f12a";
+}
+.dsvy-cardioly-icon-information:before {
+  content: "\f12b";
+}
+.dsvy-cardioly-icon-medical-prescription:before {
+  content: "\f12c";
+}
+.dsvy-cardioly-icon-consultation:before {
+  content: "\f12d";
+}
+.dsvy-cardioly-icon-healthcare:before {
+  content: "\f12e";
+}
+.dsvy-cardioly-icon-medication:before {
+  content: "\f12f";
+}
+.dsvy-cardioly-icon-first-aid-kit:before {
+  content: "\f130";
+}
+.dsvy-cardioly-icon-diabetes:before {
+  content: "\f131";
+}
+.dsvy-cardioly-icon-blood:before {
+  content: "\f132";
+}
+.dsvy-cardioly-icon-thermometer:before {
+  content: "\f133";
+}
+.dsvy-cardioly-icon-oxygen-tank:before {
+  content: "\f134";
+}
+.dsvy-cardioly-icon-surgery-1:before {
+  content: "\f135";
+}
+.dsvy-cardioly-icon-medicine-1:before {
+  content: "\f136";
+}
+.dsvy-cardioly-icon-cardiogram-2:before {
+  content: "\f137";
+}
+.dsvy-cardioly-icon-nurse:before {
+  content: "\f138";
+}
+.dsvy-cardioly-icon-heart-2:before {
+  content: "\f139";
+}
+.dsvy-cardioly-icon-heart-rate-2:before {
+  content: "\f13a";
+}
+.dsvy-cardioly-icon-ekg-monitor:before {
+  content: "\f13b";
+}
