@@ -413,15 +413,15 @@ const Index = () => {
             <div className="slider-container">
               <div id="slider-label" className="slider-label">
                 Commit to be fit
-              </div>
+              </div><br />
 
               <div className="slider-title">
-                Healthy Habits Are Your <br /> Heart's Desire
+                Blessed Victoria Foundation <br /> (NGO)
               </div>
 
               <div className="slider-buttons-container">
                 <div className="slider-btn contact-btn">CONTACT US</div>
-                <div className="slider-btn readmore-btn">Readmore</div>
+                <div className="slider-btn text-dark readmore-btn">Readmore</div>
               </div>
             </div>
           </div>
