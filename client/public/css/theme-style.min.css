@@ -1,5 +1,91 @@
 /* External CSS for responsiveness and styling */
+
 .slider-container {
+  width: 100%;
+  height: 128vh;
+  position: relative;
+  overflow: hidden;
+  background-color: #f6f6f6;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding-top: 270px;
+}
+
+/* Background layers */
+.slider-container::before,
+.slider-container::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-repeat: no-repeat;
+  background-position: center top;
+  background-size: cover;
+  z-index: 0;
+  opacity: 0;
+}
+
+/* Image 1 */
+.slider-container::before {
+  background-image: url("https://cardioly-demo.pbminfotech.com/demo3/wp-content/uploads/sites/4/2020/10/slider-03-new-aaa.jpg");
+  animation: fadeSlide 14s infinite;
+}
+
+/* Image 2 */
+.slider-container::after {
+  background-image: url("https://cardioly.designervily.com/demo3/wp-content/uploads/sites/4/2020/10/title.jpg");
+  animation: fadeSlide 14s infinite;
+  animation-delay: 7s;
+}
+
+/* Animation */
+@keyframes fadeSlide {
+  0% {
+    opacity: 1;
+  }
+  45% {
+    opacity: 1;
+  }
+  55% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+/* 🔑 Bring content ABOVE backgrounds */
+.slider-container > * {
+  position: relative;
+  z-index: 1;
+}
+
+/* Accessibility */
+@media (prefers-reduced-motion: reduce) {
+  .slider-container::before,
+  .slider-container::after {
+    animation: none;
+    opacity: 1;
+  }
+
+  .slider-container::after {
+    display: none;
+  }
+}
+
+.designervily-post-item {
+  color: whitesmoke;
+}
+
+@media (max-width: 470px) {
+  .designervily-post-item {
+    color: #222;
+  }
+}
+
+/* .slider-container {
   width: 100%;
   height: 128vh;
   background-color: #f6f6f6;
@@ -13,12 +99,12 @@
   align-items: center;
   justify-content: flex-start;
   padding-top: 270px
-}
+} */
 
 .slider-label {
   z-index: 9;
   padding: 5px 30px;
-  font-family: 'Nunito', sans-serif;
+  font-family: "Nunito", sans-serif;
   font-weight: 800;
   font-size: 14px;
   color: aliceblue;
@@ -34,7 +120,7 @@
 
 .slider-title {
   z-index: 8;
-  font-family: 'Nunito', sans-serif;
+  font-family: "Nunito", sans-serif;
   font-weight: 800;
   font-size: 62px;
   line-height: 70px;
@@ -46,14 +132,14 @@
 
 .slider-buttons-container {
   display: flex;
-  gap: 20px; 
+  gap: 20px;
   z-index: 12;
 }
 
 .slider-btn {
   padding: 5px 40px;
   min-height: 0;
-  font-family: 'Mulish', sans-serif;
+  font-family: "Mulish", sans-serif;
   font-size: 13px;
   line-height: 56px;
   letter-spacing: 1px;
@@ -117,14 +203,6 @@
     height: 77vh;
   }
 }
-
-
-
-
-
-
-
-
 
 .dsvy-navbar ul ul,
 .dsvy-navbar ul ul:before {

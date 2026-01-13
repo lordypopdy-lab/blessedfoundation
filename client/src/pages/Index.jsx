@@ -15,7 +15,10 @@ const Index = () => {
                   <div className="dsvy-pre-header-left">
                     <span className="dsvy-label">
                       Book Online
-                      <i style={{fontWeight: "800"}} className="dsvy-base-icon-right-arrow globalcolor"></i>
+                      <i
+                        style={{ fontWeight: "800" }}
+                        className="dsvy-base-icon-right-arrow globalcolor"
+                      ></i>
                     </span>
                     <span>You can request appointmentin 24 hours</span>
                   </div>
@@ -413,7 +416,8 @@ const Index = () => {
             <div className="slider-container">
               <div id="slider-label" className="slider-label">
                 Commit to be fit
-              </div><br />
+              </div>
+              <br />
 
               <div className="slider-title">
                 Blessed Victoria Foundation <br /> (NGO)
@@ -421,7 +425,9 @@ const Index = () => {
 
               <div className="slider-buttons-container">
                 <div className="slider-btn contact-btn">CONTACT US</div>
-                <div className="slider-btn text-dark readmore-btn">Readmore</div>
+                <div className="slider-btn text-dark readmore-btn">
+                  Readmore
+                </div>
               </div>
             </div>
           </div>
@@ -506,169 +512,37 @@ const Index = () => {
                                         </div>
 
                                         <div className="dsvy-element-posts-wrapper row multi-columns-row">
-                                          <article className="dsvy-ele dsvy-ele-service dsvy-service-style-2 col-md-4 surgery dsvy-term-26">
-                                            <div className="designervily-post-item">
-                                              <div className="dsvy-featured-wrapper">
-                                                <img
-                                                  loading="lazy"
-                                                  decoding="async"
-                                                  width="770"
-                                                  height="635"
-                                                  src="https://cardioly-demo.pbminfotech.com/demo3/wp-content/uploads/sites/4/2020/06/service-01-770x635.jpg"
-                                                  className="attachment-dsvy-img-770x635 size-dsvy-img-770x635 wp-post-image"
-                                                  alt=""
-                                                />
-                                              </div>
-                                              <div className="designervily-box-content">
-                                                <div className="dsvy-service-icon-wrapper">
-                                                  <i className="dsvy-cardioly-icon dsvy-cardioly-icon-doctor"></i>
-                                                </div>
-                                                <div className="designervily-box-content-inner">
-                                                  <div className="dsvy-service-cat">
-                                                    <a
-                                                      href="https://cardioly-demo.pbminfotech.com/demo3/service-category/surgery/"
-                                                      rel="tag"
-                                                    >
-                                                      Surgery
-                                                    </a>
-                                                  </div>
-                                                  <h3 className="dsvy-service-title">
-                                                    <a
-                                                      href="https://cardioly-demo.pbminfotech.com/demo3/service/heart-surgery/"
-                                                      title="Go to Heart Surgery"
-                                                    >
-                                                      Heart Surgery
-                                                    </a>
-                                                  </h3>
-                                                  <div className="dsvy-service-content">
-                                                    <p>
-                                                      The heart care hospital
-                                                      have best technology
-                                                      machine with the
-                                                      specialist doctors.
-                                                    </p>
-                                                  </div>
-                                                  <div className="dsvy-service-btn">
-                                                    <a
-                                                      className="dsvy-service-btn-a"
-                                                      href="https://cardioly-demo.pbminfotech.com/demo3/service/heart-surgery/"
-                                                      title="Go to Heart Surgery"
-                                                    >
-                                                      <span>More</span>
-                                                    </a>
-                                                  </div>
-                                                </div>
-                                              </div>
+                                          <article
+                                            style={{ marginBottom: "20px" }}
+                                            className="dsvy-ele dsvy-ele-service dsvy-service-style-2 col-md-8 surgery dsvy-term-26"
+                                          >
+                                            <div
+                                              className="designervily-post-item"
+                                              style={{ fontSize: "20px" }}
+                                            >
+                                              The support of Blessed Victoria
+                                              Agenyi Foundation (NGO) is aimed
+                                              at people living in countries
+                                              where proper eye care is
+                                              unattainable – because of the
+                                              infrastructure or finances. We aim
+                                              to prevent or cure avoidable
+                                              blindness and vision impairment.
+                                              These medical conditions have
+                                              significant consequences.
                                             </div>
                                           </article>
                                           <article className="dsvy-ele dsvy-ele-service dsvy-service-style-2 col-md-4 saving-lives dsvy-term-25">
-                                            <div className="designervily-post-item">
-                                              <div className="dsvy-featured-wrapper">
-                                                <img
-                                                  loading="lazy"
-                                                  decoding="async"
-                                                  width="770"
-                                                  height="635"
-                                                  src="https://cardioly-demo.pbminfotech.com/demo3/wp-content/uploads/sites/4/2020/06/service-02-770x635.jpg"
-                                                  className="attachment-dsvy-img-770x635 size-dsvy-img-770x635 wp-post-image"
-                                                  alt=""
-                                                />
-                                              </div>
-                                              <div className="designervily-box-content">
-                                                <div className="dsvy-service-icon-wrapper">
-                                                  <i className="dsvy-cardioly-icon dsvy-cardioly-icon-ekg-monitor"></i>
-                                                </div>
-                                                <div className="designervily-box-content-inner">
-                                                  <div className="dsvy-service-cat">
-                                                    <a
-                                                      href="https://cardioly-demo.pbminfotech.com/demo3/service-category/saving-lives/"
-                                                      rel="tag"
-                                                    >
-                                                      Saving Lives
-                                                    </a>
-                                                  </div>
-                                                  <h3 className="dsvy-service-title">
-                                                    <a
-                                                      href="https://cardioly-demo.pbminfotech.com/demo3/service/valve-diseases/"
-                                                      title="Go to Valve Diseases"
-                                                    >
-                                                      Valve Diseases
-                                                    </a>
-                                                  </h3>
-                                                  <div className="dsvy-service-content">
-                                                    <p>
-                                                      The heart care hospital
-                                                      have best technology
-                                                      machine with the
-                                                      specialist doctors.
-                                                    </p>
-                                                  </div>
-                                                  <div className="dsvy-service-btn">
-                                                    <a
-                                                      className="dsvy-service-btn-a"
-                                                      href="https://cardioly-demo.pbminfotech.com/demo3/service/valve-diseases/"
-                                                      title="Go to Valve Diseases"
-                                                    >
-                                                      <span>More</span>
-                                                    </a>
-                                                  </div>
-                                                </div>
-                                              </div>
-                                            </div>
-                                          </article>
-                                          <article className="dsvy-ele dsvy-ele-service dsvy-service-style-2 col-md-4 great-care dsvy-term-24">
-                                            <div className="designervily-post-item">
-                                              <div className="dsvy-featured-wrapper">
-                                                <img
-                                                  loading="lazy"
-                                                  decoding="async"
-                                                  width="770"
-                                                  height="635"
-                                                  src="https://cardioly-demo.pbminfotech.com/demo3/wp-content/uploads/sites/4/2020/06/service-03-770x635.jpg"
-                                                  className="attachment-dsvy-img-770x635 size-dsvy-img-770x635 wp-post-image"
-                                                  alt=""
-                                                />
-                                              </div>
-                                              <div className="designervily-box-content">
-                                                <div className="dsvy-service-icon-wrapper">
-                                                  <i className="dsvy-cardioly-icon dsvy-cardioly-icon-heart-rate"></i>
-                                                </div>
-                                                <div className="designervily-box-content-inner">
-                                                  <div className="dsvy-service-cat">
-                                                    <a
-                                                      href="https://cardioly-demo.pbminfotech.com/demo3/service-category/great-care/"
-                                                      rel="tag"
-                                                    >
-                                                      Great Care
-                                                    </a>
-                                                  </div>
-                                                  <h3 className="dsvy-service-title">
-                                                    <a
-                                                      href="https://cardioly-demo.pbminfotech.com/demo3/service/childrens-services/"
-                                                      title="Go to Children&#8217;s services"
-                                                    >
-                                                      Children&#8217;s services
-                                                    </a>
-                                                  </h3>
-                                                  <div className="dsvy-service-content">
-                                                    <p>
-                                                      The heart care hospital
-                                                      have best technology
-                                                      machine with the
-                                                      specialist doctors.
-                                                    </p>
-                                                  </div>
-                                                  <div className="dsvy-service-btn">
-                                                    <a
-                                                      className="dsvy-service-btn-a"
-                                                      href="https://cardioly-demo.pbminfotech.com/demo3/service/childrens-services/"
-                                                      title="Go to Children&#8217;s services"
-                                                    >
-                                                      <span>More</span>
-                                                    </a>
-                                                  </div>
-                                                </div>
-                                              </div>
+                                            <div
+                                              className="designervily-post-item"
+                                              style={{ fontSize: "20px" }}
+                                            >
+                                              Blessed Victoria Agenyi Foundation
+                                              (NGO) aims to create a world with
+                                              better eyesight for everyone.
+                                              Because we care about eye care.
+                                              Especially in countries with less
+                                              access.
                                             </div>
                                           </article>
                                         </div>
@@ -1194,7 +1068,7 @@ const Index = () => {
                                           novalidate="novalidate"
                                           data-status="init"
                                         >
-                                          <div style={{display: "none"}}>
+                                          <div style={{ display: "none" }}>
                                             <input
                                               type="hidden"
                                               name="_wpcf7"
@@ -2569,7 +2443,7 @@ const Index = () => {
                               </button>
                             </div>
                           </div>
-                          <label style={{display: "none !important"}}>
+                          <label style={{ display: "none !important" }}>
                             Leave this field empty if you're human:
                             <input
                               type="text"
