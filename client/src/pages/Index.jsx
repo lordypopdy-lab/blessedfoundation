@@ -800,10 +800,15 @@ const Index = () => {
                                                 </div>
                                                 <div className="dsvy-ihbox-contents">
                                                   <h2 className="dsvy-element-title">
-                                                  Restoring Vision Through Cataract Surgery Support
+                                                    Restoring Vision Through
+                                                    Cataract Surgery Support
                                                   </h2>
                                                   <div className="dsvy-heading-desc">
-                                                    Covering the cost of cataract surgeries to help individuals regain their independence and quality of life.
+                                                    Covering the cost of
+                                                    cataract surgeries to help
+                                                    individuals regain their
+                                                    independence and quality of
+                                                    life.
                                                   </div>
                                                 </div>
                                               </div>
@@ -840,10 +845,11 @@ const Index = () => {
                                   <div className="elementor-widget-container">
                                     <div className="dsvy-heading-subheading -align dsvy-reverse-heading-yes">
                                       <h4 className="dsvy-element-subtitle">
-                                        Our Facilities
+                                        Our News Updates
                                       </h4>
                                       <h2 className="dsvy-element-title">
-                                      Stay up-to-date and sign up for the newsletter
+                                        Stay up-to-date and sign up for the
+                                        newsletter
                                       </h2>
                                     </div>
                                   </div>
@@ -926,14 +932,24 @@ const Index = () => {
                                                       </div>
                                                       <div className="col-md-6">
                                                         <div className="dsvy-tab-inner-content mt-2">
-                                                          Be Right Path for your
-                                                          Start Up with Business
-                                                          Consulting with
-                                                          challenges it presents
-                                                          may seem daunting, but
-                                                          we help you approach
-                                                          change with
-                                                          confidence.
+                                                          Stay informed about
+                                                          the latest activities,
+                                                          outreach programs, and
+                                                          impact stories from
+                                                          Blessed Victoria
+                                                          Agenyi Foundation
+                                                          (NGO). Here, we share
+                                                          updates on our medical
+                                                          missions, community
+                                                          initiatives,
+                                                          partnerships, and
+                                                          milestones as we
+                                                          continue our
+                                                          commitment to
+                                                          improving access to
+                                                          quality healthcare for
+                                                          vulnerable
+                                                          communities.
                                                         </div>
                                                       </div>
                                                     </div>
@@ -1039,7 +1055,7 @@ const Index = () => {
                                 >
                                   <div className="elementor-widget-container">
                                     <h2 className="elementor-heading-title elementor-size-default">
-                                      Make An Appointment
+                                      Enter Details**
                                     </h2>
                                   </div>
                                 </div>
@@ -1074,38 +1090,6 @@ const Index = () => {
                                           novalidate="novalidate"
                                           data-status="init"
                                         >
-                                          <div style={{ display: "none" }}>
-                                            <input
-                                              type="hidden"
-                                              name="_wpcf7"
-                                              value="15964"
-                                            />
-                                            <input
-                                              type="hidden"
-                                              name="_wpcf7_version"
-                                              value="6.0.6"
-                                            />
-                                            <input
-                                              type="hidden"
-                                              name="_wpcf7_locale"
-                                              value="en_US"
-                                            />
-                                            <input
-                                              type="hidden"
-                                              name="_wpcf7_unit_tag"
-                                              value="wpcf7-f15964-p2-o1"
-                                            />
-                                            <input
-                                              type="hidden"
-                                              name="_wpcf7_container_post"
-                                              value="2"
-                                            />
-                                            <input
-                                              type="hidden"
-                                              name="_wpcf7_posted_data_hash"
-                                              value=""
-                                            />
-                                          </div>
                                           <div className="main-form appointment-form-2">
                                             <div className="row">
                                               <div className="col-sm-12">
@@ -1120,7 +1104,7 @@ const Index = () => {
                                                         maxlength="400"
                                                         className="wpcf7-form-control wpcf7-text"
                                                         aria-invalid="false"
-                                                        placeholder="Your Name *"
+                                                        placeholder="First Name*"
                                                         value=""
                                                         type="text"
                                                         name="your-name"
@@ -1139,7 +1123,7 @@ const Index = () => {
                                                         maxlength="400"
                                                         className="wpcf7-form-control wpcf7-text"
                                                         aria-invalid="false"
-                                                        placeholder="Your Email *"
+                                                        placeholder="Last Name*"
                                                         value=""
                                                         type="text"
                                                         name="your-email"
@@ -1151,32 +1135,18 @@ const Index = () => {
                                                   <p>
                                                     <span
                                                       className="wpcf7-form-control-wrap"
-                                                      data-name="SelectYourDoctor"
+                                                      data-name="your-email"
                                                     >
-                                                      <select
-                                                        className="wpcf7-form-control wpcf7-select"
+                                                      <input
+                                                        size="40"
+                                                        maxlength="400"
+                                                        className="wpcf7-form-control wpcf7-text"
                                                         aria-invalid="false"
-                                                        name="SelectYourDoctor"
-                                                      >
-                                                        <option value="Select Your Doctor">
-                                                          Select Your Doctor
-                                                        </option>
-                                                        <option value="Dr. Anna Willey">
-                                                          Dr. Anna Willey
-                                                        </option>
-                                                        <option value="Dr. Edward Berry">
-                                                          Dr. Edward Berry
-                                                        </option>
-                                                        <option value="Dr. Eliza William">
-                                                          Dr. Eliza William
-                                                        </option>
-                                                        <option value="Dr. Charlie Smith">
-                                                          Dr. Charlie Smith
-                                                        </option>
-                                                        <option value="Dr. Maria Mitchell">
-                                                          Dr. Maria Mitchell
-                                                        </option>
-                                                      </select>
+                                                        placeholder="Email*"
+                                                        value=""
+                                                        type="text"
+                                                        name="your-email"
+                                                      />
                                                     </span>
                                                   </p>
                                                 </div>
@@ -1192,7 +1162,7 @@ const Index = () => {
                                                         maxlength="2000"
                                                         className="wpcf7-form-control wpcf7-textarea"
                                                         aria-invalid="false"
-                                                        placeholder="Comment"
+                                                        placeholder="Comment (Optional)"
                                                         name="message"
                                                       ></textarea>
                                                     </span>
@@ -1288,7 +1258,7 @@ const Index = () => {
                                             Have care Requirement?
                                           </h4>
                                           <h2 className="dsvy-element-title">
-                                            Call the hospital
+                                            Call the NGO
                                           </h2>
                                         </div>
                                       </div>
@@ -1342,18 +1312,25 @@ const Index = () => {
                                         <div className="dsvy-ele-header-area">
                                           <div className="dsvy-heading-subheading center-align dsvy-reverse-heading-yes">
                                             <h4 className="dsvy-element-subtitle">
-                                              Working Process
+                                              Our Teams
                                             </h4>
                                             <h2 className="dsvy-element-title">
-                                              How We Work?
+                                              Team in Nigeria
                                             </h2>
                                             <div className="dsvy-heading-desc">
-                                              Our expert are always provide best
-                                              health care service. Why Cardioly
-                                              service is best for the <br />
-                                              heart treatments all types of
-                                              patients like children's, elders
-                                              etc...
+                                              Our Nigeria team is made up of
+                                              dedicated professionals and
+                                              volunteers who work closely with
+                                              local communities to deliver
+                                              essential healthcare services.
+                                              Through strong local partnerships
+                                              and a deep understanding of
+                                              community needs, the team plays a
+                                              vital role in implementing our
+                                              programs, coordinating medical
+                                              outreach, and ensuring sustainable
+                                              impact across the regions we
+                                              serve.
                                             </div>
                                           </div>
                                         </div>
@@ -1694,203 +1671,7 @@ const Index = () => {
                             </div>
                           </div>
                         </section>
-                        <div
-                          className="elementor-section elementor-top-section elementor-element elementor-element-3438daaa elementor-section-stretched dsvy-col-stretched-none dsvy-bg-color-over-image elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                          data-id="3438daaa"
-                          data-element_type="section"
-                          data-settings='{"stretch_section":"section-stretched"}'
-                        >
-                          <div className="elementor-container elementor-column-gap-no">
-                            <div
-                              className="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-47f73c85 dsvy-bg-color-over-image"
-                              data-id="47f73c85"
-                              data-element_type="column"
-                            >
-                              <div className="elementor-widget-wrap elementor-element-populated">
-                                <div
-                                  className="elementor-element elementor-element-3f36b256 elementor-widget elementor-widget-dsvy_client_element"
-                                  data-id="3f36b256"
-                                  data-element_type="widget"
-                                  data-widget_type="dsvy_client_element.default"
-                                >
-                                  <div className="elementor-widget-container">
-                                    <div
-                                      className="designervily-element designervily-element-client dsvy-element-client-style-1 designervily-element-viewtype-row-column designervily-gap-40px"
-                                      data-show="6"
-                                      data-columns="6"
-                                      data-loop="false"
-                                      data-autoplay="false"
-                                      data-center="false"
-                                      data-nav="false"
-                                      data-dots="false"
-                                      data-autoplayspeed="1000"
-                                      data-margin="40px"
-                                    >
-                                      <div className="designervily-element-inner">
-                                        <div className="dsvy-ele-header-area">
-                                          <div className="dsvy-heading-subheading -align"></div>
-                                        </div>
 
-                                        <div className="dsvy-element-posts-wrapper row multi-columns-row">
-                                          <article className="dsvy-ele dsvy-ele-client dsvy-client-style-1 col-md-2">
-                                            <div className="dsvy-client-wrapper dsvy-client-with-hover-img">
-                                              <h4 className="dsvy-hide">
-                                                client 6
-                                              </h4>
-                                              <div className="dsvy-client-hover-img">
-                                                <img
-                                                  decoding="async"
-                                                  src="https://cardioly-demo.pbminfotech.com/demo3/wp-content/uploads/sites/4/2020/05/client-02.png"
-                                                  alt="client 6"
-                                                />
-                                              </div>
-                                              <div className="dsvy-featured-wrapper">
-                                                <img
-                                                  loading="lazy"
-                                                  decoding="async"
-                                                  width="165"
-                                                  height="70"
-                                                  src="https://cardioly-demo.pbminfotech.com/demo3/wp-content/uploads/sites/4/2020/05/client-light-02.png"
-                                                  className="attachment-dsvy-img-770x9999 size-dsvy-img-770x9999 wp-post-image"
-                                                  alt=""
-                                                />
-                                              </div>
-                                            </div>
-                                          </article>
-                                          <article className="dsvy-ele dsvy-ele-client dsvy-client-style-1 col-md-2">
-                                            <div className="dsvy-client-wrapper dsvy-client-with-hover-img">
-                                              <h4 className="dsvy-hide">
-                                                client 5
-                                              </h4>
-                                              <div className="dsvy-client-hover-img">
-                                                <img
-                                                  decoding="async"
-                                                  src="https://cardioly-demo.pbminfotech.com/demo3/wp-content/uploads/sites/4/2020/05/client-06.png"
-                                                  alt="client 5"
-                                                />
-                                              </div>
-                                              <div className="dsvy-featured-wrapper">
-                                                <img
-                                                  loading="lazy"
-                                                  decoding="async"
-                                                  width="165"
-                                                  height="70"
-                                                  src="https://cardioly-demo.pbminfotech.com/demo3/wp-content/uploads/sites/4/2020/05/client-light-06.png"
-                                                  className="attachment-dsvy-img-770x9999 size-dsvy-img-770x9999 wp-post-image"
-                                                  alt=""
-                                                />
-                                              </div>
-                                            </div>
-                                          </article>
-                                          <article className="dsvy-ele dsvy-ele-client dsvy-client-style-1 col-md-2">
-                                            <div className="dsvy-client-wrapper dsvy-client-with-hover-img">
-                                              <h4 className="dsvy-hide">
-                                                client 4
-                                              </h4>
-                                              <div className="dsvy-client-hover-img">
-                                                <img
-                                                  decoding="async"
-                                                  src="https://cardioly-demo.pbminfotech.com/demo3/wp-content/uploads/sites/4/2020/05/client-01.png"
-                                                  alt="client 4"
-                                                />
-                                              </div>
-                                              <div className="dsvy-featured-wrapper">
-                                                <img
-                                                  loading="lazy"
-                                                  decoding="async"
-                                                  width="165"
-                                                  height="70"
-                                                  src="https://cardioly-demo.pbminfotech.com/demo3/wp-content/uploads/sites/4/2020/05/client-light-01.png"
-                                                  className="attachment-dsvy-img-770x9999 size-dsvy-img-770x9999 wp-post-image"
-                                                  alt=""
-                                                />
-                                              </div>
-                                            </div>
-                                          </article>
-                                          <article className="dsvy-ele dsvy-ele-client dsvy-client-style-1 col-md-2">
-                                            <div className="dsvy-client-wrapper dsvy-client-with-hover-img">
-                                              <h4 className="dsvy-hide">
-                                                client 3
-                                              </h4>
-                                              <div className="dsvy-client-hover-img">
-                                                <img
-                                                  decoding="async"
-                                                  src="https://cardioly-demo.pbminfotech.com/demo3/wp-content/uploads/sites/4/2020/05/client-05.png"
-                                                  alt="client 3"
-                                                />
-                                              </div>
-                                              <div className="dsvy-featured-wrapper">
-                                                <img
-                                                  loading="lazy"
-                                                  decoding="async"
-                                                  width="165"
-                                                  height="70"
-                                                  src="https://cardioly-demo.pbminfotech.com/demo3/wp-content/uploads/sites/4/2020/05/client-light-05.png"
-                                                  className="attachment-dsvy-img-770x9999 size-dsvy-img-770x9999 wp-post-image"
-                                                  alt=""
-                                                />
-                                              </div>
-                                            </div>
-                                          </article>
-                                          <article className="dsvy-ele dsvy-ele-client dsvy-client-style-1 col-md-2">
-                                            <div className="dsvy-client-wrapper dsvy-client-with-hover-img">
-                                              <h4 className="dsvy-hide">
-                                                client 2
-                                              </h4>
-                                              <div className="dsvy-client-hover-img">
-                                                <img
-                                                  decoding="async"
-                                                  src="https://cardioly-demo.pbminfotech.com/demo3/wp-content/uploads/sites/4/2020/05/client-04.png"
-                                                  alt="client 2"
-                                                />
-                                              </div>
-                                              <div className="dsvy-featured-wrapper">
-                                                <img
-                                                  loading="lazy"
-                                                  decoding="async"
-                                                  width="165"
-                                                  height="70"
-                                                  src="https://cardioly-demo.pbminfotech.com/demo3/wp-content/uploads/sites/4/2020/05/client-light-04.png"
-                                                  className="attachment-dsvy-img-770x9999 size-dsvy-img-770x9999 wp-post-image"
-                                                  alt=""
-                                                />
-                                              </div>
-                                            </div>
-                                          </article>
-                                          <article className="dsvy-ele dsvy-ele-client dsvy-client-style-1 col-md-2">
-                                            <div className="dsvy-client-wrapper dsvy-client-with-hover-img">
-                                              <h4 className="dsvy-hide">
-                                                client 1
-                                              </h4>
-                                              <div className="dsvy-client-hover-img">
-                                                <img
-                                                  decoding="async"
-                                                  src="https://cardioly-demo.pbminfotech.com/demo3/wp-content/uploads/sites/4/2020/05/client-03.png"
-                                                  alt="client 1"
-                                                />
-                                              </div>
-                                              <div className="dsvy-featured-wrapper">
-                                                <img
-                                                  loading="lazy"
-                                                  decoding="async"
-                                                  width="165"
-                                                  height="70"
-                                                  src="https://cardioly-demo.pbminfotech.com/demo3/wp-content/uploads/sites/4/2020/05/client-light-03.png"
-                                                  className="attachment-dsvy-img-770x9999 size-dsvy-img-770x9999 wp-post-image"
-                                                  alt=""
-                                                />
-                                              </div>
-                                            </div>
-                                          </article>
-                                        </div>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
                         <div
                           className="elementor-section elementor-top-section elementor-element elementor-element-3a076056 dsvy-col-stretched-none dsvy-bg-color-over-image elementor-section-boxed elementor-section-height-default elementor-section-height-default"
                           data-id="3a076056"
@@ -2000,7 +1781,7 @@ const Index = () => {
                                                   />
                                                 </div>
                                                 <div className="dsvy-meta-date">
-                                                  <span>August 27, 2020</span>
+                                                  <span>December 12, 2025</span>
                                                 </div>
                                               </div>
                                               <div className="designervily-box-content">
@@ -2027,16 +1808,23 @@ const Index = () => {
                                                     href="https://cardioly-demo.pbminfotech.com/demo3/2020/08/27/is-running-really-good-for-the-heart/"
                                                     title="Go to Is Running Really Good for the Heart?"
                                                   >
-                                                    Is Running Really Good for
-                                                    the Heart?
+                                                    Publications by members of
+                                                    the Mectizan Expert
+                                                    Committee in 2025
                                                   </a>
                                                 </h3>
                                                 <div className="designervily-box-desc">
                                                   <div className="designervily-box-desc-text">
                                                     <p>
-                                                      Cardiology is a medical
-                                                      specialty and a branch of
-                                                      internal medicine
+                                                      These are some journal
+                                                      articles published on
+                                                      topics relating to
+                                                      onchocerciasis and
+                                                      lymphatic filariasis by
+                                                      members of the Mectizan
+                                                      Expert
+                                                      Committee/Albendazole
+                                                      Coordination in 2025.
                                                     </p>
                                                   </div>
                                                   <div className="dsvy-read-more-link">
@@ -2063,7 +1851,7 @@ const Index = () => {
                                                   />
                                                 </div>
                                                 <div className="dsvy-meta-date">
-                                                  <span>August 27, 2020</span>
+                                                  <span>November 24, 2025</span>
                                                 </div>
                                               </div>
                                               <div className="designervily-box-content">
@@ -2090,16 +1878,21 @@ const Index = () => {
                                                     href="https://cardioly-demo.pbminfotech.com/demo3/2020/08/27/modeling-data-increase-to-endovascular-therapy/"
                                                     title="Go to Modeling data increase to endovascular therapy"
                                                   >
-                                                    Modeling data increase to
-                                                    endovascular therapy
+                                                    Dr. Frank Richards receives
+                                                    the 2025 Merck Mectizan
+                                                    Award
                                                   </a>
                                                 </h3>
                                                 <div className="designervily-box-desc">
                                                   <div className="designervily-box-desc-text">
                                                     <p>
-                                                      Cardiology is a medical
-                                                      specialty and a branch of
-                                                      internal medicine
+                                                      Mectizan Award, News Dr.
+                                                      Frank Richards, Jr. has
+                                                      been named the recipient
+                                                      of the 2025 Merck Mectizan
+                                                      Award for his outstanding
+                                                      contributions to the
+                                                      elimination of river
                                                     </p>
                                                   </div>
                                                   <div className="dsvy-read-more-link">
@@ -2126,7 +1919,7 @@ const Index = () => {
                                                   />
                                                 </div>
                                                 <div className="dsvy-meta-date">
-                                                  <span>August 27, 2020</span>
+                                                  <span>November 17, 2025</span>
                                                 </div>
                                               </div>
                                               <div className="designervily-box-content">
@@ -2153,16 +1946,23 @@ const Index = () => {
                                                     href="https://cardioly-demo.pbminfotech.com/demo3/2020/08/27/get-the-exercise-tips-for-limited-mobility/"
                                                     title="Go to Get the Exercise Tips for Limited Mobility"
                                                   >
-                                                    Get the Exercise Tips for
-                                                    Limited Mobility
+                                                    Press release: Extension of
+                                                    Mectizan Donation for Triple
+                                                    Therapy Advances Fight
+                                                    Against Lymphatic Filariasis
+                                                    Through 2030
                                                   </a>
                                                 </h3>
                                                 <div className="designervily-box-desc">
                                                   <div className="designervily-box-desc-text">
                                                     <p>
-                                                      Cardiology is a medical
-                                                      specialty and a branch of
-                                                      internal medicine
+                                                      Merck Commemorates 5
+                                                      Billion Mectizan®
+                                                      Treatments Donated Over 38
+                                                      Years November 17, 2025
+                                                      6:45 am EST Extension of
+                                                      Mectizan Donation for
+                                                      Triple Therapy Advances
                                                     </p>
                                                   </div>
                                                   <div className="dsvy-read-more-link">
@@ -2216,9 +2016,9 @@ const Index = () => {
                                 <i className="dsvy-base-icon-location"></i>
                                 <div className="dsvy-footer-contact-info-wrap">
                                   <span className="dsvy-label dsvy-label-1">
-                                    Our Clinic Address
+                                    Our Address
                                   </span>
-                                  456, Lorem Street, USA
+                                  2, Action Area Block, Abuja, FCT Nigeria
                                 </div>
                               </div>
                             </div>
@@ -2242,7 +2042,7 @@ const Index = () => {
                     <div className="col-md-3 dsvy-footer-social-icon">
                       <ul className="dsvy-social-links">
                         <li className="dsvy-social-li dsvy-social-facebook">
-                          <a href="#" target="_blank">
+                          <a href="https://www.facebook.com/profile.php?id=61585461172920" target="_blank">
                             <span>
                               <i className="dsvy-base-icon-facebook-squared"></i>
                             </span>
