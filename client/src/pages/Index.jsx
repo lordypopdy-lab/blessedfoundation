@@ -420,7 +420,7 @@ const Index = () => {
               <br />
 
               <div className="slider-title">
-                Blessed Victoria Foundation <br /> (NGO)
+                Blessed Victoria Agenyi Foundation <br /> (NGO)
               </div>
 
               <div className="slider-buttons-container">
@@ -520,16 +520,21 @@ const Index = () => {
                                               className="designervily-post-item"
                                               style={{ fontSize: "20px" }}
                                             >
+                                              <span className="head-line"></span>
                                               The support of Blessed Victoria
                                               Agenyi Foundation (NGO) is aimed
                                               at people living in countries
-                                              where proper eye care is
-                                              unattainable – because of the
-                                              infrastructure or finances. We aim
-                                              to prevent or cure avoidable
-                                              blindness and vision impairment.
-                                              These medical conditions have
-                                              significant consequences.
+                                              where proper healthcare is
+                                              unattainable due to poor
+                                              infrastructure or financial
+                                              constraints. We aim to prevent or
+                                              treat avoidable diseases such as
+                                              blindness, vision impairment,
+                                              dental problems, and related
+                                              conditions. These medical
+                                              conditions have significant
+                                              consequences for individuals,
+                                              families, and communities.
                                             </div>
                                           </article>
                                           <article className="dsvy-ele dsvy-ele-service dsvy-service-style-2 col-md-4 saving-lives dsvy-term-25">
@@ -537,12 +542,12 @@ const Index = () => {
                                               className="designervily-post-item"
                                               style={{ fontSize: "20px" }}
                                             >
-                                              Blessed Victoria Agenyi Foundation
-                                              (NGO) aims to create a world with
-                                              better eyesight for everyone.
-                                              Because we care about eye care.
-                                              Especially in countries with less
-                                              access.
+                                              <img
+                                                className="rounded"
+                                                src="/images/Out01.jpg"
+                                                alt=""
+                                                srcset=""
+                                              />
                                             </div>
                                           </article>
                                         </div>
@@ -576,10 +581,11 @@ const Index = () => {
                                   <div className="elementor-widget-container">
                                     <div className="dsvy-heading-subheading center-align dsvy-reverse-heading-yes">
                                       <h4 className="dsvy-element-subtitle">
-                                        Special Services
+                                        This is how we work
                                       </h4>
                                       <h2 className="dsvy-element-title">
-                                        Why you should choose us
+                                        Our way of working offers stable support
+                                        and a sustainable future by:
                                       </h2>
                                     </div>
                                   </div>
@@ -612,12 +618,13 @@ const Index = () => {
                                                 </div>
                                                 <div className="dsvy-ihbox-contents">
                                                   <h2 className="dsvy-element-title">
-                                                    Cardio Monitoring
+                                                    Capacity Building & Skills
+                                                    Development
                                                   </h2>
                                                   <div className="dsvy-heading-desc">
-                                                    We have latest Cardio
-                                                    Monitoring technologies in
-                                                    our health care.
+                                                    Training and supporting
+                                                    local medical personnel and
+                                                    volunteers.
                                                   </div>
                                                 </div>
                                               </div>
@@ -640,12 +647,13 @@ const Index = () => {
                                                 </div>
                                                 <div className="dsvy-ihbox-contents">
                                                   <h2 className="dsvy-element-title">
-                                                    Expert Cardiologist
+                                                    Community-Based Medical
+                                                    Support
                                                   </h2>
                                                   <div className="dsvy-heading-desc">
-                                                    Our Expert Cardiologists are
-                                                    easily manage all heart
-                                                    surgeries.
+                                                    Setting up field offices for
+                                                    general support and medical
+                                                    management.
                                                   </div>
                                                 </div>
                                               </div>
@@ -668,12 +676,12 @@ const Index = () => {
                                                 </div>
                                                 <div className="dsvy-ihbox-contents">
                                                   <h2 className="dsvy-element-title">
-                                                    Comfort Environment
+                                                    Accessible Healthcare
+                                                    Infrastructure
                                                   </h2>
                                                   <div className="dsvy-heading-desc">
-                                                    Comfort Environment provide
-                                                    to all patient at heath care
-                                                    hospital.
+                                                    Building eye clinics at
+                                                    easy-to-reach locations.
                                                   </div>
                                                 </div>
                                               </div>
@@ -735,12 +743,11 @@ const Index = () => {
                                                 </div>
                                                 <div className="dsvy-ihbox-contents">
                                                   <h2 className="dsvy-element-title">
-                                                    Oxygen Therapy
+                                                    Medical Equipment Support
                                                   </h2>
                                                   <div className="dsvy-heading-desc">
-                                                    We have latest Cardio
-                                                    Monitoring technologies in
-                                                    our health care.
+                                                    Donating medical Health care
+                                                    equipment.
                                                   </div>
                                                 </div>
                                               </div>
@@ -763,12 +770,14 @@ const Index = () => {
                                                 </div>
                                                 <div className="dsvy-ihbox-contents">
                                                   <h2 className="dsvy-element-title">
-                                                    Septal Mastectomy
+                                                    Financing Life-Changing
+                                                    Cataract Surgeries
                                                   </h2>
                                                   <div className="dsvy-heading-desc">
-                                                    Our Expert Cardiologists are
-                                                    easily manage all heart
-                                                    surgeries.
+                                                    Providing financial support
+                                                    to restore sight through
+                                                    safe and effective cataract
+                                                    procedures.
                                                   </div>
                                                 </div>
                                               </div>
@@ -791,12 +800,10 @@ const Index = () => {
                                                 </div>
                                                 <div className="dsvy-ihbox-contents">
                                                   <h2 className="dsvy-element-title">
-                                                    Coil Embolization
+                                                  Restoring Vision Through Cataract Surgery Support
                                                   </h2>
                                                   <div className="dsvy-heading-desc">
-                                                    Comfort Environment provide
-                                                    to all patient at heath care
-                                                    hospital.
+                                                    Covering the cost of cataract surgeries to help individuals regain their independence and quality of life.
                                                   </div>
                                                 </div>
                                               </div>
