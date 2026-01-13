@@ -493,7 +493,7 @@ const Index = () => {
                                   data-element_type="widget"
                                   data-widget_type="dsvy_service_element.default"
                                 >
-                                  <div className="elementor-widget-container">
+                                  <div className="elementor-widget-container elementor-01">
                                     <div
                                       className="designervily-element designervily-element-service dsvy-element-service-style-2 designervily-element-viewtype-row-column designervily-gap-30px"
                                       data-show="3"
@@ -843,8 +843,7 @@ const Index = () => {
                                         Our Facilities
                                       </h4>
                                       <h2 className="dsvy-element-title">
-                                        We Offering Healthcare Services to
-                                        Client's
+                                      Stay up-to-date and sign up for the newsletter
                                       </h2>
                                     </div>
                                   </div>
