@@ -395,7 +395,9 @@ const Index = () => {
               </div>
 
               <div className="slider-buttons-container">
-                <div className="slider-btn text-light contact-btn">CONTACT US</div>
+                <div className="slider-btn text-light contact-btn">
+                  CONTACT US
+                </div>
                 <div className="slider-btn text-dark text-dark readmore-btn">
                   Readmore
                 </div>
@@ -677,14 +679,14 @@ const Index = () => {
                                             <img
                                               loading="lazy"
                                               decoding="async"
-                                              width={513}
-                                              height={539}
-                                              src="https://cardioly-demo.pbminfotech.com/demo3/wp-content/uploads/sites/4/2020/08/img-08.png"
-                                              className="attachment-full size-full wp-image-14690"
+                                              width={413}
+                                              height={2039}
+                                              src="/images/Out01.jpg"
+                                              className="attachment-full"
                                               alt=""
                                               srcSet="
-    https://cardioly-demo.pbminfotech.com/demo3/wp-content/uploads/sites/4/2020/08/img-08.png 513w,
-    https://cardioly-demo.pbminfotech.com/demo3/wp-content/uploads/sites/4/2020/08/img-08-286x300.png 286w
+    /images/Out01.jpg 513w,
+    /images/Out01.jpg 286w
   "
                                               sizes="(max-width: 513px) 100vw, 513px"
                                             />
@@ -1314,18 +1316,17 @@ const Index = () => {
                                                   <div className="dsvy-ihbox-icon-wrapper dsvy-ihbox-icon-type-image">
                                                     <img
                                                       decoding="async"
-                                                      src="https://cardioly-demo.pbminfotech.com/demo3/wp-content/uploads/sites/4/2020/10/step-01-img.jpg"
+                                                      src="https://eyecarefoundation.eu/wp-content/themes/yootheme/cache/40/thijs-405ea3f3.webp"
                                                       alt="Appointment"
                                                     />
                                                   </div>
                                                 </div>
                                                 <div className="dsvy-ihbox-contents">
                                                   <h2 className="dsvy-element-title">
-                                                    Appointment
+                                                    Thijs van Praag
                                                   </h2>
                                                   <div className="dsvy-heading-desc">
-                                                    Book the appointment and go
-                                                    to the healthcare
+                                                    Chair
                                                   </div>
                                                 </div>
                                               </div>
@@ -1338,18 +1339,17 @@ const Index = () => {
                                                   <div className="dsvy-ihbox-icon-wrapper dsvy-ihbox-icon-type-image">
                                                     <img
                                                       decoding="async"
-                                                      src="https://cardioly-demo.pbminfotech.com/demo3/wp-content/uploads/sites/4/2020/10/step-02-img.jpg"
+                                                      src="https://eyecarefoundation.eu/wp-content/themes/yootheme/cache/d3/Bestand_003-d34cbfa7.webp"
                                                       alt="Doctor Checkup"
                                                     />
                                                   </div>
                                                 </div>
                                                 <div className="dsvy-ihbox-contents">
                                                   <h2 className="dsvy-element-title">
-                                                    Doctor Checkup
+                                                    Indira Rombley
                                                   </h2>
                                                   <div className="dsvy-heading-desc">
-                                                    Doctor checkup patient heart
-                                                    bit and actions
+                                                    Supervisory board
                                                   </div>
                                                 </div>
                                               </div>
@@ -1362,18 +1362,17 @@ const Index = () => {
                                                   <div className="dsvy-ihbox-icon-wrapper dsvy-ihbox-icon-type-image">
                                                     <img
                                                       decoding="async"
-                                                      src="https://cardioly-demo.pbminfotech.com/demo3/wp-content/uploads/sites/4/2020/10/step-03-img.jpg"
+                                                      src="https://eyecarefoundation.eu/wp-content/themes/yootheme/cache/f0/Drew-Keys-f0603108.webp"
                                                       alt="Manage Treatment"
                                                     />
                                                   </div>
                                                 </div>
                                                 <div className="dsvy-ihbox-contents">
                                                   <h2 className="dsvy-element-title">
-                                                    Manage Treatment
+                                                    Drew Keys
                                                   </h2>
                                                   <div className="dsvy-heading-desc">
-                                                    Doctors are patients
-                                                    treatment manage easily
+                                                    Supervisory board
                                                   </div>
                                                 </div>
                                               </div>
@@ -1386,7 +1385,101 @@ const Index = () => {
                                                   <div className="dsvy-ihbox-icon-wrapper dsvy-ihbox-icon-type-image">
                                                     <img
                                                       decoding="async"
-                                                      src="https://cardioly-demo.pbminfotech.com/demo3/wp-content/uploads/sites/4/2020/10/step-04-img.jpg"
+                                                      src="https://eyecarefoundation.eu/wp-content/themes/yootheme/cache/b2/Denise-b2971880.webp"
+                                                      alt="Enjoy The Life"
+                                                    />
+                                                  </div>
+                                                </div>
+                                                <div className="dsvy-ihbox-contents">
+                                                  <h2 className="dsvy-element-title">
+                                                    Denise Go-Feij
+                                                  </h2>
+                                                  <div className="dsvy-heading-desc">
+                                                    Supervisory board
+                                                  </div>
+                                                </div>
+                                              </div>
+                                            </div>
+                                          </article>
+                                        </div>
+                                        <div className="dsvy-element-posts-wrapper row multi-columns-row">
+                                          <article className="dsvy-ele dsvy-ele-miconheading dsvy-miconheading-style-7 col-md-6 col-lg-3">
+                                            <div className="dsvy-ihbox dsvy-ihbox-style-7">
+                                              <div className="dsvy-ihbox-box">
+                                                <div className="dsvy-ihbox-icon">
+                                                  <div className="dsvy-ihbox-icon-wrapper dsvy-ihbox-icon-type-image">
+                                                    <img
+                                                      decoding="async"
+                                                      src="https://eyecarefoundation.eu/wp-content/themes/yootheme/cache/40/thijs-405ea3f3.webp"
+                                                      alt="Appointment"
+                                                    />
+                                                  </div>
+                                                </div>
+                                                <div className="dsvy-ihbox-contents">
+                                                  <h2 className="dsvy-element-title">
+                                                    Sasha Bogerd
+                                                  </h2>
+                                                  <div className="dsvy-heading-desc">
+                                                    Supervisory board, treasurer
+                                                  </div>
+                                                </div>
+                                              </div>
+                                            </div>
+                                          </article>
+                                          <article className="dsvy-ele dsvy-ele-miconheading dsvy-miconheading-style-7 col-md-6 col-lg-3">
+                                            <div className="dsvy-ihbox dsvy-ihbox-style-7">
+                                              <div className="dsvy-ihbox-box">
+                                                <div className="dsvy-ihbox-icon">
+                                                  <div className="dsvy-ihbox-icon-wrapper dsvy-ihbox-icon-type-image">
+                                                    <img
+                                                      decoding="async"
+                                                      src="https://eyecarefoundation.eu/wp-content/themes/yootheme/cache/d3/Bestand_003-d34cbfa7.webp"
+                                                      alt="Doctor Checkup"
+                                                    />
+                                                  </div>
+                                                </div>
+                                                <div className="dsvy-ihbox-contents">
+                                                  <h2 className="dsvy-element-title">
+                                                    Björn Stenvers
+                                                  </h2>
+                                                  <div className="dsvy-heading-desc">
+                                                    Director
+                                                  </div>
+                                                </div>
+                                              </div>
+                                            </div>
+                                          </article>
+                                          <article className="dsvy-ele dsvy-ele-miconheading dsvy-miconheading-style-7 col-md-6 col-lg-3">
+                                            <div className="dsvy-ihbox dsvy-ihbox-style-7">
+                                              <div className="dsvy-ihbox-box">
+                                                <div className="dsvy-ihbox-icon">
+                                                  <div className="dsvy-ihbox-icon-wrapper dsvy-ihbox-icon-type-image">
+                                                    <img
+                                                      decoding="async"
+                                                      src="https://eyecarefoundation.eu/wp-content/themes/yootheme/cache/f0/Drew-Keys-f0603108.webp"
+                                                      alt="Manage Treatment"
+                                                    />
+                                                  </div>
+                                                </div>
+                                                <div className="dsvy-ihbox-contents">
+                                                  <h2 className="dsvy-element-title">
+                                                    Margreet Geels
+                                                  </h2>
+                                                  <div className="dsvy-heading-desc">
+                                                    Manager Events
+                                                  </div>
+                                                </div>
+                                              </div>
+                                            </div>
+                                          </article>
+                                          <article className="dsvy-ele dsvy-ele-miconheading dsvy-miconheading-style-7 col-md-6 col-lg-3">
+                                            <div className="dsvy-ihbox dsvy-ihbox-style-7">
+                                              <div className="dsvy-ihbox-box">
+                                                <div className="dsvy-ihbox-icon">
+                                                  <div className="dsvy-ihbox-icon-wrapper dsvy-ihbox-icon-type-image">
+                                                    <img
+                                                      decoding="async"
+                                                      src="https://eyecarefoundation.eu/wp-content/themes/yootheme/cache/b2/Denise-b2971880.webp"
                                                       alt="Enjoy The Life"
                                                     />
                                                   </div>
@@ -1434,10 +1527,10 @@ const Index = () => {
                                   <div className="elementor-widget-container">
                                     <div className="dsvy-heading-subheading left-align dsvy-reverse-heading-yes">
                                       <h4 className="dsvy-element-subtitle">
-                                        What We Offer
+                                        Make Donations
                                       </h4>
                                       <h2 className="dsvy-element-title">
-                                        Reasonable Plan of Treatment
+                                        Donations make our work possible
                                       </h2>
                                     </div>
                                   </div>
@@ -1449,10 +1542,13 @@ const Index = () => {
                                   data-widget_type="text-editor.default"
                                 >
                                   <div className="elementor-widget-container">
-                                    We provide latest technology with expert
-                                    specialist doctors in a reasonable cost.
-                                    They are always provide to patient best
-                                    care.
+                                    Our activities for good eye care are
+                                    possible through active funding. Eye Care
+                                    Foundation runs entirely on donations, large
+                                    and small. Donations make our work possible;
+                                    without them, these regions have no
+                                    opportunities for good eye care. We use our
+                                    donations directly for all our activities.
                                   </div>
                                 </div>
                                 <div
@@ -1508,6 +1604,11 @@ const Index = () => {
                                       </div>
                                     </div>
                                   </div>
+                                  <div className="dsvy-read-more-link">
+                                    <a href="https://cardioly-demo.pbminfotech.com/demo3/2020/08/27/is-running-really-good-for-the-heart/">
+                                      <span>Read more</span>
+                                    </a>
+                                  </div>
                                 </div>
                               </div>
                             </div>
@@ -1529,110 +1630,13 @@ const Index = () => {
                                         <div className="dsvy-heading-subheading -align"></div>
                                       </div>
                                       <div className="dsvy-ptable-cols row multi-columns-row">
-                                        <div className="dsvy-ptable-col col-md-6">
-                                          <div className="dsvy-pricing-table-box">
-                                            <div className="dsvy-ptable-icon">
-                                              <div className="dsvy-ptable-icon-wrapper">
-                                                <i className="dsvy-cardioly-icon dsvy-cardioly-icon-cardiogram"></i>
-                                              </div>
-                                            </div>
-                                            <h3 className="designervily-ptable-heading">
-                                              Basic Plan
-                                            </h3>
-                                            <div className="designervily-sep"></div>
-                                            <div className="designervily-ptable-price-w">
-                                              <div className="designervily-ptable-price">
-                                                199
-                                              </div>
-                                              <div className="designervily-ptable-symbol">
-                                                $
-                                              </div>
-                                              <div className="designervily-ptable-frequency">
-                                                Month
-                                              </div>
-                                            </div>
-                                            <div className="dsvy-ptable-lines-w">
-                                              <div className="dsvy-ptable-line">
-                                                <i className="mdi mdi-check"></i>
-                                                Medical Specialties
-                                              </div>
-                                              <div className="dsvy-ptable-line">
-                                                <i className="mdi mdi-check"></i>
-                                                Investigation
-                                              </div>
-                                              <div className="dsvy-ptable-line">
-                                                <i className="mdi mdi-check"></i>
-                                                Medical Consultation
-                                              </div>
-                                              <div className="dsvy-ptable-line">
-                                                <i className="mdi mdi-check"></i>
-                                                Home Visits
-                                              </div>
-                                              <div className="dsvy-ptable-line">
-                                                <i className="mdi mdi-check"></i>
-                                                Treatments
-                                              </div>
-                                            </div>
-                                            <div className="dsvy-ptable-btn">
-                                              <a href="https://cardioly-demo.pbminfotech.com/demo3/our-plans/">
-                                                <span>Buy Now</span>
-                                              </a>
-                                            </div>
-                                          </div>
-                                        </div>
-                                        <div className="dsvy-pricing-table-featured-col dsvy-ptable-col col-md-6">
-                                          <div className="dsvy-pricing-table-box">
-                                            <div className="dsvy-ptablebox-featured-w">
-                                              Featured
-                                            </div>
-                                            <div className="dsvy-ptable-icon">
-                                              <div className="dsvy-ptable-icon-wrapper">
-                                                <i className="dsvy-cardioly-icon dsvy-cardioly-icon-medical-history"></i>
-                                              </div>
-                                            </div>
-                                            <h3 className="designervily-ptable-heading">
-                                              Professional Plan
-                                            </h3>
-                                            <div className="designervily-sep"></div>
-                                            <div className="designervily-ptable-price-w">
-                                              <div className="designervily-ptable-price">
-                                                269
-                                              </div>
-                                              <div className="designervily-ptable-symbol">
-                                                $
-                                              </div>
-                                              <div className="designervily-ptable-frequency">
-                                                Month
-                                              </div>
-                                            </div>
-                                            <div className="dsvy-ptable-lines-w">
-                                              <div className="dsvy-ptable-line">
-                                                <i className="mdi mdi-check"></i>
-                                                Medical Specialties
-                                              </div>
-                                              <div className="dsvy-ptable-line">
-                                                <i className="mdi mdi-check"></i>
-                                                Investigation
-                                              </div>
-                                              <div className="dsvy-ptable-line">
-                                                <i className="mdi mdi-check"></i>
-                                                Medical Consultation
-                                              </div>
-                                              <div className="dsvy-ptable-line">
-                                                <i className="mdi mdi-check"></i>
-                                                Home Visits
-                                              </div>
-                                              <div className="dsvy-ptable-line">
-                                                <i className="mdi mdi-check"></i>
-                                                Treatments
-                                              </div>
-                                            </div>
-                                            <div className="dsvy-ptable-btn">
-                                              <a href="https://cardioly-demo.pbminfotech.com/demo3/our-plans/">
-                                                <span>Buy Now</span>
-                                              </a>
-                                            </div>
-                                          </div>
+                                        <div className="dsvy-ptable-col col-md-12">
+                                          <img
+                                            src="/images/Out01.jpg"
+                                            className="rounded"
+                                            alt=""
+                                            srcset=""
+                                          />
                                         </div>
                                       </div>
                                     </div>
@@ -2013,7 +2017,10 @@ const Index = () => {
                     <div className="col-md-3 dsvy-footer-social-icon">
                       <ul className="dsvy-social-links">
                         <li className="dsvy-social-li dsvy-social-facebook">
-                          <a href="https://www.facebook.com/profile.php?id=61585461172920" target="_blank">
+                          <a
+                            href="https://www.facebook.com/profile.php?id=61585461172920"
+                            target="_blank"
+                          >
                             <span>
                               <i className="dsvy-base-icon-facebook-squared"></i>
                             </span>
