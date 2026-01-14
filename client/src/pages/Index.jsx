@@ -89,7 +89,7 @@ const Index = () => {
                                 className="dsvy-main-logo"
                                 src="https://cardioly-demo.pbminfotech.com/demo3/wp-content/uploads/sites/4/2022/06/logo-1.png"
                                 alt="Cardioly Demo3"
-                                title="Cardioly Demo3"
+                                title=""
                               />
                             </a>
                           </h1>
@@ -119,35 +119,6 @@ const Index = () => {
                                   className="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-13"
                                 >
                                   <a href="#">Home</a>
-                                  <ul className="sub-menu">
-                                    <li
-                                      id="menu-item-14756"
-                                      className="menu-item menu-item-type-custom menu-item-object-custom menu-item-14756"
-                                    >
-                                      <a href="https://cardioly-demo.pbminfotech.com/demo1/">
-                                        Homepage 1
-                                      </a>
-                                    </li>
-                                    <li
-                                      id="menu-item-14757"
-                                      className="menu-item menu-item-type-custom menu-item-object-custom menu-item-14757"
-                                    >
-                                      <a href="https://cardioly-demo.pbminfotech.com/demo2/">
-                                        Homepage 2
-                                      </a>
-                                    </li>
-                                    <li
-                                      id="menu-item-14755"
-                                      className="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-2 current_page_item menu-item-14755"
-                                    >
-                                      <a
-                                        href="https://cardioly-demo.pbminfotech.com/demo3/"
-                                        aria-current="page"
-                                      >
-                                        Homepage 3
-                                      </a>
-                                    </li>
-                                  </ul>
                                 </li>
                                 <li
                                   id="menu-item-14"
@@ -424,8 +395,8 @@ const Index = () => {
               </div>
 
               <div className="slider-buttons-container">
-                <div className="slider-btn contact-btn">CONTACT US</div>
-                <div className="slider-btn text-dark readmore-btn">
+                <div className="slider-btn text-light contact-btn">CONTACT US</div>
+                <div className="slider-btn text-dark text-dark readmore-btn">
                   Readmore
                 </div>
               </div>
@@ -2031,7 +2002,7 @@ const Index = () => {
                                   <span className="dsvy-label dsvy-label-2">
                                     Phone Number
                                   </span>
-                                  (+00)888.666.88
+                                  (+234)708.292.4136
                                 </div>
                               </div>
                             </div>
@@ -2344,9 +2315,9 @@ const Index = () => {
                   <div className="row">
                     <div className="col-md-6">
                       <div className="dsvy-footer-copyright-text-area">
-                        Copyright &copy; 2025-
+                        Copyright &copy; 2026-
                         <a href="https://cardioly-demo.pbminfotech.com/demo3/">
-                          Blessed-Foundation
+                          Blessed-Victoria-Agenyi-Foundation(NGO)
                         </a>
                         , All Rights Reserved.
                       </div>

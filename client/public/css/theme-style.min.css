@@ -147,7 +147,7 @@
 .slider-buttons-container {
   display: flex;
   gap: 20px;
-  z-index: 12;
+  z-index: 6;
 }
 
 .slider-btn {
