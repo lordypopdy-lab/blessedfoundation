@@ -1,6 +1,10 @@
 import React from "react";
+import Contact from "./Contact";
 
 const Index = () => {
+  const Contact = async () => {
+    location.href = "/contact-us"
+  }
   return (
     <>
       <div id="page" className="site dsvy-parent-header-style-4">
@@ -249,7 +253,7 @@ const Index = () => {
               </div>
 
               <div className="slider-buttons-container">
-                <div className="slider-btn text-light contact-btn">
+                <div onClick={Contact} className="slider-btn text-light contact-btn">
                   CONTACT US
                 </div>
                 <div className="slider-btn text-dark text-dark readmore-btn">
