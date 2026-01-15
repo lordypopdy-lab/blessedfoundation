@@ -225,7 +225,7 @@ const Index = () => {
                       </div>
                     </div>
                     <div className="dsvy-header-button">
-                      <a href="http://cardioly.designervily.com/demo3/contact-us/">
+                      <a href="/make-donation">
                         <span className="dsvy-header-button-text-1">
                           Make Donations
                         </span>

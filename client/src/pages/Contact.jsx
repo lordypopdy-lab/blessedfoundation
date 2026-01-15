@@ -114,7 +114,7 @@ const Contact = () => {
                                   id="menu-item-13"
                                   className="menu-item menu-item-type-custom menu-item-object-custom current-menu-parent menu-item-has-children menu-item-13"
                                 >
-                                  <a href="#">Home</a>
+                                  <a href="/">Home</a>
                                 </li>
                                 <li
                                   id="menu-item-14"
@@ -209,7 +209,7 @@ const Contact = () => {
                       </div>
                     </div>
                     <div className="dsvy-header-button">
-                      <a href="http://cardioly.designervily.com/demo3/contact-us/">
+                      <a href="/make-donation">
                         <span className="dsvy-header-button-text-1">
                           Make Donations
                         </span>
@@ -859,17 +859,17 @@ const Contact = () => {
                         <div className="menu-footer-menu-container">
                           <ul className="dsvy-footer-menu">
                             <li className="menu-item menu-item-type-post_type menu-item-object-page menu-item-16540">
-                              <a href="https://cardioly-demo.pbminfotech.com/demo3/faq/">
+                              <a href="/contact-us">
                                 FAQ
                               </a>
                             </li>
                             <li className="menu-item menu-item-type-post_type menu-item-object-page menu-item-16539">
-                              <a href="https://cardioly-demo.pbminfotech.com/demo3/about-us/">
+                              <a href="/teams">
                                 About Us
                               </a>
                             </li>
                             <li className="menu-item menu-item-type-post_type menu-item-object-page menu-item-16541">
-                              <a href="https://cardioly-demo.pbminfotech.com/demo3/contact-us/">
+                              <a href="/contact-us">
                                 Contact Us
                               </a>
                             </li>
