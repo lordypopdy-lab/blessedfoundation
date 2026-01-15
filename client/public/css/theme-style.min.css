@@ -83,6 +83,10 @@
   .designervily-post-item {
     color: #222;
   }
+  .element-02 {
+    margin-top: -470px;
+    color: white;
+  }
 }
 
 @media (min-width: 470px) {

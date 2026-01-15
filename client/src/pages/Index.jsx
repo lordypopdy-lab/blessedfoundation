@@ -81,10 +81,7 @@ const Index = () => {
                               href="https://cardioly-demo.pbminfotech.com/demo3/"
                               rel="home"
                             >
-                              <span className="site-title-text">
-                                Cardioly Demo3 - Heart and Medical WordPress
-                                Theme
-                              </span>
+
                               <img
                                 className="dsvy-main-logo"
                                 src="https://cardioly-demo.pbminfotech.com/demo3/wp-content/uploads/sites/4/2022/06/logo-1.png"
@@ -124,73 +121,6 @@ const Index = () => {
                                   id="menu-item-14"
                                   className="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-14"
                                 >
-                                  <a href="#">Pages</a>
-                                  <ul className="sub-menu">
-                                    <li
-                                      id="menu-item-16516"
-                                      className="menu-item menu-item-type-post_type menu-item-object-page menu-item-16516"
-                                    >
-                                      <a href="https://cardioly-demo.pbminfotech.com/demo3/about-us/">
-                                        About Us
-                                      </a>
-                                    </li>
-                                    <li
-                                      id="menu-item-16517"
-                                      className="menu-item menu-item-type-post_type menu-item-object-page menu-item-16517"
-                                    >
-                                      <a href="https://cardioly-demo.pbminfotech.com/demo3/about-us-2/">
-                                        About Us 2
-                                      </a>
-                                    </li>
-                                    <li
-                                      id="menu-item-16518"
-                                      className="menu-item menu-item-type-post_type menu-item-object-page menu-item-16518"
-                                    >
-                                      <a href="https://cardioly-demo.pbminfotech.com/demo3/our-history/">
-                                        Our History
-                                      </a>
-                                    </li>
-                                    <li
-                                      id="menu-item-16519"
-                                      className="menu-item menu-item-type-post_type menu-item-object-page menu-item-16519"
-                                    >
-                                      <a href="https://cardioly-demo.pbminfotech.com/demo3/our-plans/">
-                                        Our Plans
-                                      </a>
-                                    </li>
-                                    <li
-                                      id="menu-item-16520"
-                                      className="menu-item menu-item-type-post_type menu-item-object-page menu-item-16520"
-                                    >
-                                      <a href="https://cardioly-demo.pbminfotech.com/demo3/our-team-member/">
-                                        Our Team Member
-                                      </a>
-                                    </li>
-                                    <li
-                                      id="menu-item-16522"
-                                      className="menu-item menu-item-type-post_type menu-item-object-dsvy-team-member menu-item-16522"
-                                    >
-                                      <a href="https://cardioly-demo.pbminfotech.com/demo3/team-member/dr-anna-willey/">
-                                        Team Member Details
-                                      </a>
-                                    </li>
-                                    <li
-                                      id="menu-item-16651"
-                                      className="menu-item menu-item-type-post_type menu-item-object-page menu-item-16651"
-                                    >
-                                      <a href="https://cardioly-demo.pbminfotech.com/demo3/shop/">
-                                        Shop
-                                      </a>
-                                    </li>
-                                    <li
-                                      id="menu-item-16521"
-                                      className="menu-item menu-item-type-post_type menu-item-object-page menu-item-16521"
-                                    >
-                                      <a href="https://cardioly-demo.pbminfotech.com/demo3/faq/">
-                                        FAQ
-                                      </a>
-                                    </li>
-                                  </ul>
                                 </li>
                                 <li
                                   id="menu-item-15"
@@ -202,23 +132,23 @@ const Index = () => {
                                       id="menu-item-16530"
                                       className="menu-item menu-item-type-post_type menu-item-object-dsvy-service menu-item-16530"
                                     >
-                                      <a href="https://cardioly-demo.pbminfotech.com/demo3/service/heart-surgery/">
-                                        Heart Surgery
+                                      <a href="#">
+                                        Community Services
                                       </a>
                                     </li>
                                     <li
                                       id="menu-item-16531"
                                       className="menu-item menu-item-type-post_type menu-item-object-dsvy-service menu-item-16531"
                                     >
-                                      <a href="https://cardioly-demo.pbminfotech.com/demo3/service/valve-diseases/">
-                                        Valve Diseases
+                                      <a href="#">
+                                      Vision impairment
                                       </a>
                                     </li>
                                     <li
                                       id="menu-item-16532"
                                       className="menu-item menu-item-type-post_type menu-item-object-dsvy-service menu-item-16532"
                                     >
-                                      <a href="https://cardioly-demo.pbminfotech.com/demo3/service/childrens-services/">
+                                      <a href="#">
                                         Children’s services
                                       </a>
                                     </li>
@@ -226,48 +156,24 @@ const Index = () => {
                                       id="menu-item-16533"
                                       className="menu-item menu-item-type-post_type menu-item-object-dsvy-service menu-item-16533"
                                     >
-                                      <a href="https://cardioly-demo.pbminfotech.com/demo3/service/heart-transplant/">
-                                        Heart Transplant
+                                      <a href="#">
+                                      Dental problems
                                       </a>
                                     </li>
                                     <li
                                       id="menu-item-16534"
                                       className="menu-item menu-item-type-post_type menu-item-object-dsvy-service menu-item-16534"
                                     >
-                                      <a href="https://cardioly-demo.pbminfotech.com/demo3/service/endocrinology/">
-                                        Endocrinology
+                                      <a href="#">
+                                      Emergency Care
                                       </a>
                                     </li>
                                     <li
                                       id="menu-item-16535"
                                       className="menu-item menu-item-type-post_type menu-item-object-dsvy-service menu-item-16535"
                                     >
-                                      <a href="https://cardioly-demo.pbminfotech.com/demo3/service/emergency-care/">
-                                        Emergency care
-                                      </a>
-                                    </li>
-                                    <li
-                                      id="menu-item-16536"
-                                      className="menu-item menu-item-type-post_type menu-item-object-dsvy-service menu-item-16536"
-                                    >
-                                      <a href="https://cardioly-demo.pbminfotech.com/demo3/service/cardiac-surgery/">
-                                        Cardiac Surgery
-                                      </a>
-                                    </li>
-                                    <li
-                                      id="menu-item-16537"
-                                      className="menu-item menu-item-type-post_type menu-item-object-dsvy-service menu-item-16537"
-                                    >
-                                      <a href="https://cardioly-demo.pbminfotech.com/demo3/service/angioplasty/">
-                                        Angioplasty
-                                      </a>
-                                    </li>
-                                    <li
-                                      id="menu-item-16538"
-                                      className="menu-item menu-item-type-post_type menu-item-object-dsvy-service menu-item-16538"
-                                    >
-                                      <a href="https://cardioly-demo.pbminfotech.com/demo3/service/community-services/">
-                                        Community services
+                                      <a href="#">
+                                      Donation and distribution 
                                       </a>
                                     </li>
                                   </ul>
@@ -276,71 +182,19 @@ const Index = () => {
                                   id="menu-item-16"
                                   className="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-16"
                                 >
-                                  <a href="#">Projects</a>
-                                  <ul className="sub-menu">
-                                    <li
-                                      id="menu-item-16523"
-                                      className="menu-item menu-item-type-post_type menu-item-object-page menu-item-16523"
-                                    >
-                                      <a href="https://cardioly-demo.pbminfotech.com/demo3/project-style-1/">
-                                        Project Style 1
-                                      </a>
-                                    </li>
-                                    <li
-                                      id="menu-item-16524"
-                                      className="menu-item menu-item-type-post_type menu-item-object-page menu-item-16524"
-                                    >
-                                      <a href="https://cardioly-demo.pbminfotech.com/demo3/project-style-2/">
-                                        Project Style 2
-                                      </a>
-                                    </li>
-                                    <li
-                                      id="menu-item-16525"
-                                      className="menu-item menu-item-type-post_type menu-item-object-dsvy-portfolio menu-item-16525"
-                                    >
-                                      <a href="https://cardioly-demo.pbminfotech.com/demo3/portfolio/heart-failure-management/">
-                                        Project Single Details
-                                      </a>
-                                    </li>
-                                  </ul>
+                                  <a href="#teams">Our Teams</a>
                                 </li>
                                 <li
                                   id="menu-item-17"
                                   className="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-17"
                                 >
-                                  <a href="#">Blog</a>
-                                  <ul className="sub-menu">
-                                    <li
-                                      id="menu-item-16526"
-                                      className="menu-item menu-item-type-post_type menu-item-object-page menu-item-16526"
-                                    >
-                                      <a href="https://cardioly-demo.pbminfotech.com/demo3/blog-classic/">
-                                        Blog Classic
-                                      </a>
-                                    </li>
-                                    <li
-                                      id="menu-item-16527"
-                                      className="menu-item menu-item-type-post_type menu-item-object-page menu-item-16527"
-                                    >
-                                      <a href="https://cardioly-demo.pbminfotech.com/demo3/blog-grid-view/">
-                                        Blog Grid View
-                                      </a>
-                                    </li>
-                                    <li
-                                      id="menu-item-16529"
-                                      className="menu-item menu-item-type-post_type menu-item-object-post menu-item-16529"
-                                    >
-                                      <a href="https://cardioly-demo.pbminfotech.com/demo3/2020/06/03/hard-content-we-decide-ourselves-a-intently/">
-                                        Blog Single Details
-                                      </a>
-                                    </li>
-                                  </ul>
+                                  <a href="#blog">Blog</a>
                                 </li>
                                 <li
                                   id="menu-item-16528"
                                   className="menu-item menu-item-type-post_type menu-item-object-page menu-item-16528"
                                 >
-                                  <a href="https://cardioly-demo.pbminfotech.com/demo3/contact-us/">
+                                  <a href="/contact-us">
                                     Contact Us
                                   </a>
                                 </li>
@@ -373,7 +227,7 @@ const Index = () => {
                     <div className="dsvy-header-button">
                       <a href="http://cardioly.designervily.com/demo3/contact-us/">
                         <span className="dsvy-header-button-text-1">
-                          Make Appointment
+                          Make Donations
                         </span>
                       </a>
                     </div>
@@ -1250,6 +1104,7 @@ const Index = () => {
                           </div>
                         </section>
                         <section
+                        id="teams"
                           className="elementor-section elementor-top-section elementor-element elementor-element-2ac89bb2 elementor-section-stretched dsvy-mobile-hide-bg-1200 dsvy-col-stretched-none dsvy-bg-color-over-image elementor-section-boxed elementor-section-height-default elementor-section-height-default"
                           data-id="2ac89bb2"
                           data-element_type="section"
@@ -1288,7 +1143,7 @@ const Index = () => {
                                               Our Teams
                                             </h4>
                                             <h2 className="dsvy-element-title">
-                                              Team in Nigeria
+                                              Our Teams
                                             </h2>
                                             <div className="dsvy-heading-desc">
                                               Our Nigeria team is made up of
@@ -1648,6 +1503,7 @@ const Index = () => {
                         </section>
 
                         <div
+                        id="blog"
                           className="elementor-section elementor-top-section elementor-element elementor-element-3a076056 dsvy-col-stretched-none dsvy-bg-color-over-image elementor-section-boxed elementor-section-height-default elementor-section-height-default"
                           data-id="3a076056"
                           data-element_type="section"
@@ -2062,62 +1918,44 @@ const Index = () => {
                       id="nav_menu-1"
                       className="widget-odd widget-last widget-first widget-1 dsvy-float-menu widget widget_nav_menu cardioly_widget cardioly_widget_count_1"
                     >
-                      <h2 className="widget-title">Information</h2>
+                      <h2 className="widget-title">Services</h2>
                       <div className="menu-information-container">
                         <ul id="menu-information" className="menu">
-                          <li
-                            id="menu-item-16054"
-                            className="menu-item menu-item-type-custom menu-item-object-custom menu-item-16054"
-                          >
-                            <a href="#">About Us</a>
-                          </li>
-                          <li
-                            id="menu-item-16055"
-                            className="menu-item menu-item-type-custom menu-item-object-custom menu-item-16055"
-                          >
-                            <a href="#">Service</a>
-                          </li>
-                          <li
-                            id="menu-item-16056"
-                            className="menu-item menu-item-type-custom menu-item-object-custom menu-item-16056"
-                          >
-                            <a href="#">Best Seller</a>
-                          </li>
                           <li
                             id="menu-item-16057"
                             className="menu-item menu-item-type-custom menu-item-object-custom menu-item-16057"
                           >
-                            <a href="#">Privacy Policy</a>
+                            <a href="#">Community Services</a>
                           </li>
                           <li
                             id="menu-item-16058"
                             className="menu-item menu-item-type-custom menu-item-object-custom menu-item-16058"
                           >
-                            <a href="#">Expert Tips</a>
+                            <a href="#">Vision impairment</a>
                           </li>
                           <li
                             id="menu-item-16059"
                             className="menu-item menu-item-type-custom menu-item-object-custom menu-item-16059"
                           >
-                            <a href="#">Customer</a>
+                            <a href="#">Dental problems</a>
                           </li>
                           <li
                             id="menu-item-16060"
                             className="menu-item menu-item-type-custom menu-item-object-custom menu-item-16060"
                           >
-                            <a href="#">Collections</a>
+                            <a href="#">Children's Services</a>
                           </li>
                           <li
                             id="menu-item-16061"
                             className="menu-item menu-item-type-custom menu-item-object-custom menu-item-16061"
                           >
-                            <a href="#">Careers</a>
+                            <a href="#">Emergency Care</a>
                           </li>
                           <li
                             id="menu-item-16062"
                             className="menu-item menu-item-type-custom menu-item-object-custom menu-item-16062"
                           >
-                            <a href="#">Change Location</a>
+                            <a href="#">Donation and distribution of medical eye care equipment</a>
                           </li>
                         </ul>
                       </div>
