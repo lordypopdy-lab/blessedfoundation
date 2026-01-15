@@ -102,7 +102,7 @@
   width: 50px;
   height: 80px;
   padding: 7px;
-  background: #ee344e;
+  background: #001f3f;
   margin: 5px;
 }
 
@@ -132,7 +132,7 @@
   line-height: 24px;
   letter-spacing: 3px;
   text-transform: uppercase;
-  background-color: #ee344e;
+  background-color: #001f3f;
   border-radius: 6px;
   box-shadow: 0px 9px 35px 0px rgba(26, 47, 106, 0.07);
   text-align: center;
@@ -191,7 +191,7 @@
 }
 
 .readmore-btn:hover {
-  background-color: #ee344e;
+  background-color: #001f3f;
   color: #fff;
   filter: brightness(120%);
 }
@@ -360,7 +360,7 @@ h6 {
   font-size: 13px;
   line-height: 20px;
   letter-spacing: 2px;
-  color: #ee344e;
+  color: #001f3f;
   text-transform: uppercase;
   font-style: normal;
 }
@@ -522,7 +522,7 @@ a {
   color: #273353;
 }
 a:hover {
-  color: #ee344e;
+  color: #001f3f;
 }
 .site-title {
   height: 80px;
@@ -540,7 +540,7 @@ a:hover {
 .dsvy-color-globalcolor,
 .dsvy-globalcolor,
 .globalcolor {
-  color: #ee344e;
+  color: #001f3f;
 }
 .dsvy-bg-color-globalcolor.dsvy-title-bar-wrapper::before,
 .designervily-ele-team .designervily-overlay {
@@ -595,7 +595,7 @@ a:hover {
 .elementor-section.elementor-top-section.dsvy-elementor-bg-color-globalcolor,
 .elementor-section.elementor-top-section.dsvy-elementor-bg-color-globalcolor:before,
 .elementor-section.elementor-inner-section.dsvy-elementor-bg-color-globalcolor {
-  background-color: #ee344e;
+  background-color: #001f3f;
 }
 .elementor-section.elementor-top-section.dsvy-elementor-bg-color-globalcolor.dsvy-bgimage-yes:before {
   background-color: rgba(238, 52, 78, 0.3);
@@ -632,7 +632,7 @@ a:hover {
     .dsvy-col-stretched-yes
   )
   > .elementor-column-wrap {
-  background-color: #ee344e !important;
+  background-color: #001f3f !important;
 }
 .elementor-column.elementor-top-column.dsvy-elementor-bg-color-globalcolor.dsvy-bgimage-yes:not(
     .dsvy-col-stretched-yes
@@ -661,7 +661,7 @@ a:hover {
   background-color: rgba(238, 52, 78, 0.3);
 }
 .elementor-inner-section.dsvy-elementor-bg-color-globalcolor {
-  background-color: #ee344e !important;
+  background-color: #001f3f !important;
 }
 .elementor-inner-section.dsvy-elementor-bg-color-globalcolor:not(
     .dsvy-bg-image-over-color
@@ -672,7 +672,7 @@ a:hover {
   > div.elementor-column-wrap,
 .elementor-inner-column.dsvy-elementor-bg-color-globalcolor
   > div.elementor-widget-wrap {
-  background-color: #ee344e !important;
+  background-color: #001f3f !important;
 }
 .elementor-inner-column.dsvy-elementor-bg-color-globalcolor:not(
     .dsvy-bg-image-over-color
@@ -1055,12 +1055,12 @@ a:hover {
 .elementor-section.elementor-top-section.dsvy-elementor-bg-color-gradient,
 .elementor-section.elementor-top-section.dsvy-elementor-bg-color-gradient:before,
 .elementor-section.elementor-inner-section.dsvy-elementor-bg-color-gradient {
-  background-image: -ms-linear-gradient(right, #ee344e 0, #ed001f 100%);
-  background-image: linear-gradient(to right, #ee344e, #ed001f);
+  background-image: -ms-linear-gradient(right, #001f3f 0, #ed001f 100%);
+  background-image: linear-gradient(to right, #001f3f, #ed001f);
 }
 .elementor-section.elementor-top-section.dsvy-elementor-bg-color-gradient.dsvy-bgimage-yes:before {
-  background-image: -ms-linear-gradient(right, #ee344e 0, #ed001f 100%);
-  background-image: linear-gradient(to right, #ee344e, #ed001f);
+  background-image: -ms-linear-gradient(right, #001f3f 0, #ed001f 100%);
+  background-image: linear-gradient(to right, #001f3f, #ed001f);
   opacity: 0.5;
 }
 .elementor-column.elementor-top-column.dsvy-elementor-bg-color-gradient:not(
@@ -1095,8 +1095,8 @@ a:hover {
     .dsvy-col-stretched-yes
   )
   > .elementor-column-wrap {
-  background-image: -ms-linear-gradient(right, #ee344e 0, #ed001f 100%);
-  background-image: linear-gradient(to right, #ee344e, #ed001f);
+  background-image: -ms-linear-gradient(right, #001f3f 0, #ed001f 100%);
+  background-image: linear-gradient(to right, #001f3f, #ed001f);
 }
 .elementor-column.elementor-top-column.dsvy-elementor-bg-color-gradient.dsvy-bgimage-yes:not(
     .dsvy-col-stretched-yes
@@ -1122,27 +1122,27 @@ a:hover {
 .elementor-column.elementor-top-column.dsvy-elementor-bg-color-gradient
   .elementor-column-wrap
   .dsvy-bgimage-yes.dsvy-stretched-div:before {
-  background-image: -ms-linear-gradient(right, #ee344e 0, #ed001f 80%);
-  background-image: linear-gradient(to right, #ee344e, #ed001f);
+  background-image: -ms-linear-gradient(right, #001f3f 0, #ed001f 80%);
+  background-image: linear-gradient(to right, #001f3f, #ed001f);
   opacity: 0.5;
 }
 .elementor-inner-section.dsvy-elementor-bg-color-gradient {
-  background-image: -ms-linear-gradient(right, #ee344e 0, #ed001f 100%);
-  background-image: linear-gradient(to right, #ee344e, #ed001f);
+  background-image: -ms-linear-gradient(right, #001f3f 0, #ed001f 100%);
+  background-image: linear-gradient(to right, #001f3f, #ed001f);
 }
 .elementor-inner-section.dsvy-elementor-bg-color-gradient:not(
     .dsvy-bg-image-over-color
   ):before {
-  background-image: -ms-linear-gradient(right, #ee344e 0, #ed001f 100%);
-  background-image: linear-gradient(to right, #ee344e, #ed001f);
+  background-image: -ms-linear-gradient(right, #001f3f 0, #ed001f 100%);
+  background-image: linear-gradient(to right, #001f3f, #ed001f);
   opacity: 0.5;
 }
 .elementor-inner-column.dsvy-elementor-bg-color-gradient
   > div.elementor-column-wrap,
 .elementor-inner-column.dsvy-elementor-bg-color-gradient
   > div.elementor-widget-wrap {
-  background-image: -ms-linear-gradient(right, #ee344e 0, #ed001f 100%);
-  background-image: linear-gradient(to right, #ee344e, #ed001f);
+  background-image: -ms-linear-gradient(right, #001f3f 0, #ed001f 100%);
+  background-image: linear-gradient(to right, #001f3f, #ed001f);
 }
 .elementor-inner-column.dsvy-elementor-bg-color-gradient:not(
     .dsvy-bg-image-over-color
@@ -1152,8 +1152,8 @@ a:hover {
     .dsvy-bg-image-over-color
   )
   > div.elementor-widget-wrap:before {
-  background-image: -ms-linear-gradient(right, #ee344e 0, #ed001f 100%);
-  background-image: linear-gradient(to right, #ee344e, #ed001f);
+  background-image: -ms-linear-gradient(right, #001f3f 0, #ed001f 100%);
+  background-image: linear-gradient(to right, #001f3f, #ed001f);
 }
 .wp-block-search .wp-block-search__button,
 .wp-block-tag-cloud a:hover,
@@ -1173,7 +1173,7 @@ input[type="submit"]:hover,
 .dsvy-bg-color-globalcolor,
 .dsvy-footer-section.dsvy-bg-color-globalcolor::before,
 body .scroll-to-top {
-  background-color: #ee344e;
+  background-color: #001f3f;
 }
 .dsvy-footer-section.dsvy-bg-color-globalcolor.dsvy-bg-image-yes::before {
   background-color: rgba(238, 52, 78, 0.7);
@@ -1188,14 +1188,14 @@ body .scroll-to-top {
 .dsvy-globalcolor,
 .dsvy-skincolor,
 .post-navigation .nav-links a:hover {
-  color: #ee344e;
+  color: #001f3f;
 }
 .post.sticky {
-  border-color: #ee344e;
+  border-color: #001f3f;
 }
 .dsvy-btn-style-outline .elementor-button {
-  border-color: #ee344e;
-  color: #ee344e;
+  border-color: #001f3f;
+  color: #001f3f;
 }
 .dsvy-bg-color-secondarycolor,
 .site-header .dsvy-bg-color-secondarycolor,
@@ -1228,21 +1228,21 @@ body .scroll-to-top {
 }
 .elementor-widget-button.dsvy-btn-color-gradient .elementor-button,
 .dsvy-bg-color-gradient {
-  background-image: -ms-linear-gradient(right, #ee344e 0, #ed001f 100%);
-  background-image: linear-gradient(to right, #ee344e, #ed001f);
+  background-image: -ms-linear-gradient(right, #001f3f 0, #ed001f 100%);
+  background-image: linear-gradient(to right, #001f3f, #ed001f);
 }
 .dsvy-bg-color-gradientcolor::before,
 .dsvy-footer-section.dsvy-bg-color-gradientcolor::before {
   background-image: -ms-linear-gradient(
     right,
-    #ee344e 0,
+    #001f3f 0,
     #ed001f 100%
   ) !important;
-  background-image: linear-gradient(to right, #ee344e, #ed001f) !important;
+  background-image: linear-gradient(to right, #001f3f, #ed001f) !important;
 }
 .elementor-widget-button.dsvy-btn-color-gradient .elementor-button {
   border-image-slice: 1;
-  border-image-source: linear-gradient(to left, #ee344e, #ed001f);
+  border-image-source: linear-gradient(to left, #001f3f, #ed001f);
 }
 button,
 html input[type="button"],
@@ -1388,7 +1388,7 @@ blockquote small,
 .dsvy-footer-section.dsvy-text-color-white a:hover,
 .dsvy-ihbox-style-3 .dsvy-ihbox-icon-wrapper,
 .dsvy-skincolor-icon.elementor-widget .elementor-icon-list-icon i {
-  color: #ee344e;
+  color: #001f3f;
 }
 .dsvy-ihbox-style-4 .dsvy-ihbox-icon-wrapper svg,
 .dsvy-ihbox-style-4 .dsvy-ihbox-svg-wrapper svg,
@@ -1401,7 +1401,7 @@ blockquote small,
 .designervily-ele-fid-style-3 .dsvy-sbox-icon-wrapper svg,
 .designervily-ele-fid-style-3 .dsvy-fid-svg-wrapper svg,
 .dsvy-tabs .dsvy-tabs-heading li svg {
-  fill: #ee344e;
+  fill: #001f3f;
 }
 .dsvy-bg-color-blackish
   .dsvy-element-testimonial-style-1.designervily-element-viewtype-carousel
@@ -1413,7 +1413,7 @@ blockquote small,
   .owl-carousel
   .owl-nav
   button.owl-prev:hover {
-  color: #ee344e !important;
+  color: #001f3f !important;
 }
 .dsvy-service-style-4 .dsvy-service-btn a,
 .dsvy-service-style-4:hover .designervily-box-content,
@@ -1534,7 +1534,7 @@ body .elementor-button-link.elementor-button .elementor-button-icon,
 .dsvy-heaing-style-1 .dsvy-heading-subheading::after,
 .dsvy-team-style-1 .designervily-box-social-links i.dsvy-base-icon-share,
 .dsvy-sortable-list a.dsvy-selected {
-  background-color: #ee344e;
+  background-color: #001f3f;
 }
 .dsvy-service-style-3 .dsvy-service-icon-wrapper i::after {
   background-color: rgba(238, 52, 78, 0.1);
@@ -1545,13 +1545,13 @@ body .elementor-button-link.elementor-button .elementor-button-icon,
 }
 .dsvy-ihbox-style-7:hover .dsvy-ihbox-icon,
 .dsvy-heading-subheading .dsvy-element-heading {
-  border-bottom-color: #ee344e;
+  border-bottom-color: #001f3f;
 }
 .dsvy-service-style-1:hover .designervily-post-item {
-  border-color: #ee344e;
+  border-color: #001f3f;
 }
 .dsvy-author-box {
-  border-left-color: #ee344e;
+  border-left-color: #001f3f;
 }
 .dsvy-ihbox-style-7 .dsvy-ihbox-icon {
   border-bottom-color: rgba(238, 52, 78, 0.3);
@@ -1678,17 +1678,17 @@ select,
   color: #f8f7f4;
 }
 .testbg {
-  background-image: -ms-linear-gradient(right, #ee344e 0, #ed001f 100%);
-  background-image: linear-gradient(to right, #ee344e, #ed001f);
+  background-image: -ms-linear-gradient(right, #001f3f 0, #ed001f 100%);
+  background-image: linear-gradient(to right, #001f3f, #ed001f);
 }
 .woocommerce-info,
 .woocommerce-message {
-  border-top-color: #ee344e;
+  border-top-color: #001f3f;
 }
 .woocommerce-info::before,
 .woocommerce ul.cart_list li ins,
 .woocommerce ul.product_list_widget li ins {
-  color: #ee344e;
+  color: #001f3f;
 }
 .single-product .entry-summary .product_meta .posted_in,
 .single-product .entry-summary .product_meta .sku_wrapper {
@@ -1727,7 +1727,7 @@ select,
 .woocommerce div.product form.cart .button,
 .woocommerce div.product .woocommerce-tabs ul.tabs li a,
 .woocommerce ul.products li.product .button {
-  background-color: #ee344e !important;
+  background-color: #001f3f !important;
 }
 .widget.widget_product_search .woocommerce-product-search button,
 .woocommerce .woocommerce-form-login .woocommerce-form-login__submit,
@@ -1759,7 +1759,7 @@ select,
 }
 .woocommerce-info,
 .woocommerce-message {
-  border-top-color: #ee344e;
+  border-top-color: #001f3f;
 }
 @media (max-width: 1200px) {
   .dsvy-header-style-4 .dsvy-header-wrapper > .container > .d-flex,
@@ -1933,7 +1933,7 @@ select,
     display: inline-block;
   }
   .dsvy-responsive-header-bgcolor-globalcolor .dsvy-header-wrapper {
-    background-color: #ee344e !important;
+    background-color: #001f3f !important;
   }
   .dsvy-responsive-header-bgcolor-white .dsvy-header-wrapper {
     background-color: #fff !important;
@@ -1954,7 +1954,7 @@ select,
     position: relative;
   }
   .dsvy-responsive-header-bgcolor-globalcolor {
-    background-color: #ee344e !important;
+    background-color: #001f3f !important;
   }
   .dsvy-responsive-header-bgcolor-white {
     background-color: #fff !important;
@@ -1995,12 +1995,12 @@ select,
   .dsvy-navbar > div > ul > li:hover > a,
   .dsvy-navbar > div > ul > li.current_page_item > a,
   .dsvy-navbar > div > ul > li.current-menu-parent > a {
-    color: #ee344e;
+    color: #001f3f;
   }
   .dsvy-navbar ul > li > ul li.current_page_item > a::before,
   .dsvy-navbar ul > li > ul li.current_page_ancestor > a::before,
   .dsvy-navbar ul > li > ul li.current_page_parent > a::before {
-    background-color: #ee344e;
+    background-color: #001f3f;
   }
   .dsvy-navbar ul > li > ul li:hover > a {
     color: #fff !important;
@@ -2053,7 +2053,7 @@ select,
     text-decoration: none;
   }
   .dsvy-navbar > div > ul ul li:hover > a {
-    background-color: #ee344e;
+    background-color: #001f3f;
   }
   .dsvy-navbar > ul {
     display: inline-block;
@@ -2074,7 +2074,7 @@ select,
     -webkit-transition: all 0.3s linear 0s;
     transition: all 0.3s linear 0s;
     box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
-    border-top: 3px solid #ee344e;
+    border-top: 3px solid #001f3f;
   }
   .dsvy-navbar ul > li:hover > ul {
     visibility: visible;
@@ -2153,7 +2153,7 @@ select,
     > ul
     > li.current-menu-parent
     > a {
-    color: #ee344e;
+    color: #001f3f;
   }
   .dsvy-navbar.dsvy-dropdown-active-color-secondarycolor
     ul
@@ -2236,7 +2236,7 @@ select,
   }
   .dsvy-search-cart-box .dsvy-cart-count {
     position: absolute;
-    background-color: #ee344e;
+    background-color: #001f3f;
     color: #fff;
     border-radius: 50%;
     top: -16px;
@@ -2296,7 +2296,7 @@ select,
     top: 3px;
     position: absolute;
     left: 0;
-    color: #ee344e;
+    color: #001f3f;
     font-weight: normal;
   }
   .dsvy-header-style-1 .dsvy-header-button a span {
@@ -2424,7 +2424,7 @@ select,
     font-weight: 700;
   }
   .dsvy-header-style-2 .dsvy-cart-details .dsvy-cart-count {
-    background-color: #ee344e;
+    background-color: #001f3f;
     color: #fff;
   }
   .dsvy-header-style-2 .dsvy-header-button {
@@ -2447,7 +2447,7 @@ select,
     transition: all 0.25s ease-in-out;
   }
   .dsvy-header-style-2 .dsvy-header-button a:hover {
-    background-color: #ee344e;
+    background-color: #001f3f;
   }
   .dsvy-header-style-3 .dsvy-pre-header-wrapper .dsvy-label {
     font-weight: 700;
@@ -2514,7 +2514,7 @@ select,
     font-weight: 700;
   }
   .dsvy-header-style-3 .dsvy-cart-details .dsvy-cart-count {
-    background-color: #ee344e;
+    background-color: #001f3f;
     color: #fff;
   }
   .dsvy-header-style-3 .dsvy-logo-menuarea {
@@ -2554,7 +2554,7 @@ select,
     transition: all 0.25s ease-in-out;
   }
   .dsvy-header-style-3 .dsvy-header-button a:hover {
-    background-color: #ee344e;
+    background-color: #001f3f;
   }
   .dsvy-header-style-3 .dsvy-title-bar-content {
     padding-top: 200px;
@@ -2593,7 +2593,7 @@ select,
   }
   .dsvy-header-style-4 .dsvy-pre-header-wrapper .dsvy-social-links li a:hover {
     background-color: transparent;
-    color: #ee344e;
+    color: #001f3f;
   }
   .dsvy-header-style-4 .dsvy-header-search-btn {
     margin-right: 20px;
@@ -2657,7 +2657,7 @@ select,
   .dsvy-header-style-4 .dsvy-header-button {
     position: relative;
     z-index: 999;
-    background-color: #ee344e;
+    background-color: #001f3f;
     -webkit-border-top-right-radius: 5px;
     -webkit-border-bottom-right-radius: 5px;
     -moz-border-radius-topright: 5px;
@@ -2672,7 +2672,7 @@ select,
     top: 0;
     left: 0;
     height: 80px;
-    background-color: #ee344e;
+    background-color: #001f3f;
   }
   .dsvy-header-style-4 .dsvy-header-button a {
     color: #fff;

@@ -114,7 +114,7 @@ const Donate = () => {
                                   id="menu-item-13"
                                   className="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-13"
                                 >
-                                  <a href="#">Home</a>
+                                  <a href="/">Home</a>
                                 </li>
                                 <li
                                   id="menu-item-14"
