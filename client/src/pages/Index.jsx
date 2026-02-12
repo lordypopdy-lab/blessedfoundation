@@ -161,7 +161,7 @@ const Index = () => {
                                       className="menu-item menu-item-type-post_type menu-item-object-dsvy-service menu-item-16533"
                                     >
                                       <a href="#">
-                                      Dental problems
+                                      Dental Problems
                                       </a>
                                     </li>
                                     <li
