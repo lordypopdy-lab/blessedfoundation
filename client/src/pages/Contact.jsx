@@ -78,12 +78,12 @@ const Contact = () => {
                         <div className="wrap">
                           <h1 className="site-title">
                             <a
-                              href="https://cardioly-demo.pbminfotech.com/demo3/"
+                              href="#"
                               rel="home"
                             >
                               <img
                                 className="dsvy-main-logo"
-                                src="https://cardioly-demo.pbminfotech.com/demo3/wp-content/uploads/sites/4/2022/06/logo-1.png"
+                                src="/images/Out09.jpeg"
                                 alt="Cardioly Demo3"
                                 title=""
                               />
@@ -190,7 +190,7 @@ const Contact = () => {
                       <div className="dsvy-search-cart-box">
                         <div className="dsvy-cart-wrapper dsvy-cart-style-2">
                           <a
-                            href="https://cardioly-demo.pbminfotech.com/demo3/cart/"
+                            href="#"
                             className="dsvy-cart-link"
                           >
                             <span className="dsvy-cart-details">
@@ -311,13 +311,8 @@ const Contact = () => {
                                           <div className="dsvy-heading-subheading -align"></div>
                                         </div>
 
-                                        <div
-                                          className="dsvy-element-posts-wrapper element-02 row multi-columns-row"
-                                        >
-                                          <article
-                                            
-                                            className="dsvy-ele dsvy-ele-service dsvy-service-style-2 col-md-8 surgery dsvy-term-26"
-                                          >
+                                        <div className="dsvy-element-posts-wrapper element-02 row multi-columns-row">
+                                          <article className="dsvy-ele dsvy-ele-service dsvy-service-style-2 col-md-8 surgery dsvy-term-26">
                                             <div
                                               className="designervily-post-item text-light"
                                               style={{ fontSize: "20px" }}
@@ -395,8 +390,9 @@ const Contact = () => {
                                   <div className="elementor-widget-container">
                                     You can always change, stop, or increase
                                     your donation. The easiest way is to send an
-                                    email to info@blessedvictoriaagenyifoundation.nl. Please
-                                    include your name, postal code, house
+                                    email to
+                                    info@blessedvictoriaagenyifoundation.nl.
+                                    Please include your name, postal code, house
                                     number, phone number, and the reason for
                                     your change. We will do our best to process
                                     this within a few working days. If you want
@@ -452,7 +448,8 @@ const Contact = () => {
                                         </div>
                                         <div className="dsvy-ihbox-contents">
                                           <h2 className="dsvy-element-title">
-                                            info@blessedvictoriaageny <br /> ifoundation.nl
+                                            info@blessedvictoriaageny <br />{" "}
+                                            ifoundation.nl
                                           </h2>
                                           <div className="dsvy-heading-desc">
                                             By email: We aim to answer each
@@ -485,7 +482,7 @@ const Contact = () => {
                                       <div className="dsvy-ptable-cols row multi-columns-row">
                                         <div className="dsvy-ptable-col col-md-12">
                                           <img
-                                            src="/images/Out01.jpg"
+                                            src="/images/Out04.jpeg"
                                             className="rounded"
                                             alt=""
                                             srcset=""
@@ -519,7 +516,7 @@ const Contact = () => {
                         <div className="dsvy-footer-logo">
                           <img
                             className="dsvy-main-logo"
-                            src="https://cardioly-demo.pbminfotech.com/demo3/wp-content/uploads/sites/4/2022/06/logo-1-1.png"
+                            src="/images/Out09.jpeg"
                             alt="Cardioly Demo3"
                             title="Cardioly Demo3"
                           />
@@ -656,19 +653,19 @@ const Contact = () => {
                       <h2 className="widget-title">Latest News</h2>
                       <ul className="dsvy-rpw-list">
                         <li>
-                          <a href="https://cardioly-demo.pbminfotech.com/demo3/2020/08/27/is-running-really-good-for-the-heart/">
+                          <a href="#">
                             <span className="dsvy-rpw-img">
                               <img
                                 width="150"
                                 height="150"
-                                src="https://cardioly-demo.pbminfotech.com/demo3/wp-content/uploads/sites/4/2020/08/blog-01-150x150.jpg"
+                                src="/images/Out02.jpeg"
                                 className="attachment-thumbnail size-thumbnail wp-post-image"
                                 alt=""
                                 decoding="async"
                                 srcset="
-                                https://cardioly-demo.pbminfotech.com/demo3/wp-content/uploads/sites/4/2020/08/blog-01-150x150.jpg 150w,
-                                https://cardioly-demo.pbminfotech.com/demo3/wp-content/uploads/sites/4/2020/08/blog-01-770x770.jpg 770w,
-                                https://cardioly-demo.pbminfotech.com/demo3/wp-content/uploads/sites/4/2020/08/blog-01-300x300.jpg 300w
+                                /images/Out02.jpeg 150w,
+                                /images/Out02.jpeg 770w,
+                                /images/Out02.jpeg 300w
                               "
                                 sizes="(max-width: 150px) 100vw, 150px"
                               />
@@ -676,46 +673,42 @@ const Contact = () => {
                           </a>
                           <span className="dsvy-rpw-content">
                             <span className="dsvy-rpw-title">
-                              <a href="https://cardioly-demo.pbminfotech.com/demo3/2020/08/27/is-running-really-good-for-the-heart/">
+                              <a href="#">
                                 Is Running Really Good for the Heart?
                               </a>
                             </span>
                             <span className="dsvy-rpw-date">
-                              <a href="https://cardioly-demo.pbminfotech.com/demo3/2020/08/27/is-running-really-good-for-the-heart/">
-                                August 27, 2020
-                              </a>
+                              <a href="#">August 27, 2023</a>
                             </span>
                           </span>
                         </li>
                         <li>
-                          <a href="https://cardioly-demo.pbminfotech.com/demo3/2020/08/27/modeling-data-increase-to-endovascular-therapy/">
+                          <a href="#">
                             <span className="dsvy-rpw-img">
                               <img
                                 width="150"
                                 height="150"
-                                src="https://cardioly-demo.pbminfotech.com/demo3/wp-content/uploads/sites/4/2020/08/blog-02-150x150.jpg"
+                                src="/images/Out06.jpeg"
                                 className="attachment-thumbnail size-thumbnail wp-post-image"
                                 alt=""
                                 decoding="async"
-                                srcset="
-                                https://cardioly-demo.pbminfotech.com/demo3/wp-content/uploads/sites/4/2020/08/blog-02-150x150.jpg 150w,
-                                https://cardioly-demo.pbminfotech.com/demo3/wp-content/uploads/sites/4/2020/08/blog-02-770x770.jpg 770w,
-                                https://cardioly-demo.pbminfotech.com/demo3/wp-content/uploads/sites/4/2020/08/blog-02-300x300.jpg 300w
-                              "
                                 sizes="(max-width: 150px) 100vw, 150px"
+                                srcset="
+                                /images/Out06.jpeg 150w,
+                                /images/Out06.jpeg 770w,
+                                /images/Out06.jpeg 300w
+                              "
                               />
                             </span>
                           </a>
                           <span className="dsvy-rpw-content">
                             <span className="dsvy-rpw-title">
-                              <a href="https://cardioly-demo.pbminfotech.com/demo3/2020/08/27/modeling-data-increase-to-endovascular-therapy/">
+                              <a href="#">
                                 Modeling data increase to endovascular therapy
                               </a>
                             </span>
                             <span className="dsvy-rpw-date">
-                              <a href="https://cardioly-demo.pbminfotech.com/demo3/2020/08/27/modeling-data-increase-to-endovascular-therapy/">
-                                August 27, 2020
-                              </a>
+                              <a href="#">October 25, 2024</a>
                             </span>
                           </span>
                         </li>
@@ -848,10 +841,8 @@ const Contact = () => {
                     <div className="col-md-6">
                       <div className="dsvy-footer-copyright-text-area">
                         Copyright &copy; 2026-
-                        <a href="https://cardioly-demo.pbminfotech.com/demo3/">
-                          Blessed-Victoria-Agenyi-Foundation(NGO)
-                        </a>
-                        , All Rights Reserved.
+                        <a href="#">Blessed-Victoria-Agenyi-Foundation(NGO)</a>,
+                        All Rights Reserved.
                       </div>
                     </div>
                     <div className="col-md-6">
@@ -859,19 +850,13 @@ const Contact = () => {
                         <div className="menu-footer-menu-container">
                           <ul className="dsvy-footer-menu">
                             <li className="menu-item menu-item-type-post_type menu-item-object-page menu-item-16540">
-                              <a href="/contact-us">
-                                FAQ
-                              </a>
+                              <a href="#">FAQ</a>
                             </li>
                             <li className="menu-item menu-item-type-post_type menu-item-object-page menu-item-16539">
-                              <a href="/teams">
-                                About Us
-                              </a>
+                              <a href="#">About Us</a>
                             </li>
                             <li className="menu-item menu-item-type-post_type menu-item-object-page menu-item-16541">
-                              <a href="/contact-us">
-                                Contact Us
-                              </a>
+                              <a href="#">Contact Us</a>
                             </li>
                           </ul>
                         </div>

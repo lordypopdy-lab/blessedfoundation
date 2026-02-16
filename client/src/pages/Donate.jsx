@@ -78,12 +78,12 @@ const Donate = () => {
                         <div className="wrap">
                           <h1 className="site-title">
                             <a
-                              href="https://cardioly-demo.pbminfotech.com/demo3/"
+                              href="#"
                               rel="home"
                             >
                               <img
                                 className="dsvy-main-logo"
-                                src="https://cardioly-demo.pbminfotech.com/demo3/wp-content/uploads/sites/4/2022/06/logo-1.png"
+                                src="/images/Out09.jpeg"
                                 alt="Cardioly Demo3"
                                 title=""
                               />
@@ -1315,7 +1315,7 @@ const Donate = () => {
                         <div className="dsvy-footer-logo">
                           <img
                             className="dsvy-main-logo"
-                            src="https://cardioly-demo.pbminfotech.com/demo3/wp-content/uploads/sites/4/2022/06/logo-1-1.png"
+                            src="/images/Out09.jpeg"
                             alt="Cardioly Demo3"
                             title="Cardioly Demo3"
                           />
@@ -1452,66 +1452,62 @@ const Donate = () => {
                       <h2 className="widget-title">Latest News</h2>
                       <ul className="dsvy-rpw-list">
                         <li>
-                          <a href="https://cardioly-demo.pbminfotech.com/demo3/2020/08/27/is-running-really-good-for-the-heart/">
+                          <a href="#">
                             <span className="dsvy-rpw-img">
                               <img
                                 width="150"
                                 height="150"
-                                src="https://cardioly-demo.pbminfotech.com/demo3/wp-content/uploads/sites/4/2020/08/blog-01-150x150.jpg"
+                                src="/images/Out02.jpeg"
                                 className="attachment-thumbnail size-thumbnail wp-post-image"
                                 alt=""
                                 decoding="async"
                                 srcset="
-                              https://cardioly-demo.pbminfotech.com/demo3/wp-content/uploads/sites/4/2020/08/blog-01-150x150.jpg 150w,
-                              https://cardioly-demo.pbminfotech.com/demo3/wp-content/uploads/sites/4/2020/08/blog-01-770x770.jpg 770w,
-                              https://cardioly-demo.pbminfotech.com/demo3/wp-content/uploads/sites/4/2020/08/blog-01-300x300.jpg 300w
-                            "
+                                /images/Out02.jpeg 150w,
+                                /images/Out02.jpeg 770w,
+                                /images/Out02.jpeg 300w
+                              "
                                 sizes="(max-width: 150px) 100vw, 150px"
                               />
                             </span>
                           </a>
                           <span className="dsvy-rpw-content">
                             <span className="dsvy-rpw-title">
-                              <a href="https://cardioly-demo.pbminfotech.com/demo3/2020/08/27/is-running-really-good-for-the-heart/">
+                              <a href="#">
                                 Is Running Really Good for the Heart?
                               </a>
                             </span>
                             <span className="dsvy-rpw-date">
-                              <a href="https://cardioly-demo.pbminfotech.com/demo3/2020/08/27/is-running-really-good-for-the-heart/">
-                                August 27, 2020
-                              </a>
+                              <a href="#">August 27, 2023</a>
                             </span>
                           </span>
                         </li>
                         <li>
-                          <a href="https://cardioly-demo.pbminfotech.com/demo3/2020/08/27/modeling-data-increase-to-endovascular-therapy/">
+                          <a href="#">
                             <span className="dsvy-rpw-img">
                               <img
                                 width="150"
                                 height="150"
-                                src="https://cardioly-demo.pbminfotech.com/demo3/wp-content/uploads/sites/4/2020/08/blog-02-150x150.jpg"
+                                src="/images/Out06.jpeg"
                                 className="attachment-thumbnail size-thumbnail wp-post-image"
                                 alt=""
                                 decoding="async"
-                                srcset="
-                              https://cardioly-demo.pbminfotech.com/demo3/wp-content/uploads/sites/4/2020/08/blog-02-150x150.jpg 150w,
-                              https://cardioly-demo.pbminfotech.com/demo3/wp-content/uploads/sites/4/2020/08/blog-02-770x770.jpg 770w,
-                              https://cardioly-demo.pbminfotech.com/demo3/wp-content/uploads/sites/4/2020/08/blog-02-300x300.jpg 300w
-                            "
                                 sizes="(max-width: 150px) 100vw, 150px"
+                                srcset="
+                                /images/Out06.jpeg 150w,
+                                /images/Out06.jpeg 770w,
+                                /images/Out06.jpeg 300w
+                              "
                               />
                             </span>
                           </a>
                           <span className="dsvy-rpw-content">
                             <span className="dsvy-rpw-title">
-                              <a href="https://cardioly-demo.pbminfotech.com/demo3/2020/08/27/modeling-data-increase-to-endovascular-therapy/">
+                              <a href="#">
                                 Modeling data increase to endovascular therapy
                               </a>
                             </span>
                             <span className="dsvy-rpw-date">
-                              <a href="https://cardioly-demo.pbminfotech.com/demo3/2020/08/27/modeling-data-increase-to-endovascular-therapy/">
-                                August 27, 2020
-                              </a>
+                              <a href="#">October 25, 2024</a>
                             </span>
                           </span>
                         </li>
@@ -1644,7 +1640,7 @@ const Donate = () => {
                     <div className="col-md-6">
                       <div className="dsvy-footer-copyright-text-area">
                         Copyright &copy; 2026-
-                        <a href="https://cardioly-demo.pbminfotech.com/demo3/">
+                        <a href="#">
                           Blessed-Victoria-Agenyi-Foundation(NGO)
                         </a>
                         , All Rights Reserved.
@@ -1655,13 +1651,19 @@ const Donate = () => {
                         <div className="menu-footer-menu-container">
                           <ul className="dsvy-footer-menu">
                             <li className="menu-item menu-item-type-post_type menu-item-object-page menu-item-16540">
-                              <a href="/contact-us">FAQ</a>
+                              <a href="#">
+                                FAQ
+                              </a>
                             </li>
                             <li className="menu-item menu-item-type-post_type menu-item-object-page menu-item-16539">
-                              <a href="/#teams">About Us</a>
+                              <a href="#">
+                                About Us
+                              </a>
                             </li>
                             <li className="menu-item menu-item-type-post_type menu-item-object-page menu-item-16541">
-                              <a href="/contact">Contact Us</a>
+                              <a href="#">
+                                Contact Us
+                              </a>
                             </li>
                           </ul>
                         </div>
