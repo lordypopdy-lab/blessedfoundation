@@ -1675,7 +1675,7 @@ const Index = () => {
                               </a>
                             </span>
                             <span className="dsvy-rpw-date">
-                              <a href="#">August 27, 2020</a>
+                              <a href="#">August 27, 2023</a>
                             </span>
                           </span>
                         </li>
@@ -1705,7 +1705,7 @@ const Index = () => {
                               </a>
                             </span>
                             <span className="dsvy-rpw-date">
-                              <a href="#">August 27, 2020</a>
+                              <a href="#">October 25, 2024</a>
                             </span>
                           </span>
                         </li>
