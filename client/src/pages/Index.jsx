@@ -1481,7 +1481,7 @@ const Index = () => {
                                       <div className="dsvy-ptable-cols row multi-columns-row">
                                         <div className="dsvy-ptable-col col-md-12">
                                           <img
-                                            src="/images/Out01.jpg"
+                                            src="/images/Out03.jpeg"
                                             className="rounded"
                                             alt=""
                                             srcset=""
