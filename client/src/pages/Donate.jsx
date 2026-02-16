@@ -903,238 +903,389 @@ const Donate = () => {
                                   </div>
                                 </section>
                                 <div
-                                  className="elementor-element elementor-element-6c554f05 elementor-widget elementor-widget-dsvy_blog_element"
-                                  data-id="6c554f05"
-                                  data-element_type="widget"
-                                  data-widget_type="dsvy_blog_element.default"
+                                  id="blog"
+                                  className="mt-5 elementor-section elementor-top-section elementor-element elementor-element-3a076056 dsvy-col-stretched-none dsvy-bg-color-over-image elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                                  data-id="3a076056"
+                                  data-element_type="section"
                                 >
-                                  <div className="elementor-widget-container">
+                                  <div className="elementor-container elementor-column-gap-no">
                                     <div
-                                      className="designervily-element designervily-element-blog dsvy-element-blog-style-2 designervily-element-viewtype-row-column designervily-gap-30px"
-                                      data-show="3"
-                                      data-columns="3"
-                                      data-loop="false"
-                                      data-autoplay="false"
-                                      data-center="false"
-                                      data-nav="false"
-                                      data-dots="false"
-                                      data-autoplayspeed="1000"
-                                      data-margin="30px"
+                                      className="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-6f8e38bb dsvy-bg-color-over-image"
+                                      data-id="6f8e38bb"
+                                      data-element_type="column"
                                     >
-                                      <div className="designervily-element-inner">
-                                        <div className="dsvy-ele-header-area">
-                                          <div className="dsvy-heading-subheading -align"></div>
-                                        </div>
+                                      <div className="elementor-widget-wrap elementor-element-populated">
+                                        <section
+                                          className="elementor-section elementor-inner-section elementor-element elementor-element-175ebea0 elementor-section-content-middle dsvy-col-stretched-none dsvy-bg-color-over-image elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                                          data-id="175ebea0"
+                                          data-element_type="section"
+                                        >
+                                          <div className="elementor-container elementor-column-gap-no">
+                                            <div
+                                              className="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-4fc9f057 dsvy-bg-color-over-image"
+                                              data-id="4fc9f057"
+                                              data-element_type="column"
+                                            >
+                                              <div className="elementor-widget-wrap elementor-element-populated">
+                                                <div
+                                                  className="elementor-element elementor-element-c2033b3 dsvy-align-left elementor-widget elementor-widget-dsvy_heading"
+                                                  data-id="c2033b3"
+                                                  data-element_type="widget"
+                                                  data-widget_type="dsvy_heading.default"
+                                                >
+                                                  <div className="elementor-widget-container">
+                                                    <div className="dsvy-heading-subheading left-align dsvy-reverse-heading-yes">
+                                                      <h4 className="dsvy-element-subtitle">
+                                                        Read Our Blog
+                                                      </h4>
+                                                      <h2 className="dsvy-element-title">
+                                                        Featured News and
+                                                        Advices
+                                                      </h2>
+                                                    </div>
+                                                  </div>
+                                                </div>
+                                              </div>
+                                            </div>
+                                            <div
+                                              className="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-5ab1f0b5 dsvy-bg-color-over-image"
+                                              data-id="5ab1f0b5"
+                                              data-element_type="column"
+                                            >
+                                              <div className="elementor-widget-wrap elementor-element-populated">
+                                                <div
+                                                  className="elementor-element elementor-element-56f03863 elementor-widget elementor-widget-text-editor"
+                                                  data-id="56f03863"
+                                                  data-element_type="widget"
+                                                  data-widget_type="text-editor.default"
+                                                >
+                                                  <div className="elementor-widget-container">
+                                                    <p>
+                                                      We provide the special
+                                                      tips and advice&#8217;s of
+                                                      heath care treatment and
+                                                      high level of best
+                                                      technology involve in the
+                                                      our hospital.
+                                                    </p>
+                                                  </div>
+                                                </div>
+                                              </div>
+                                            </div>
+                                          </div>
+                                        </section>
+                                        <div
+                                          className="elementor-element elementor-element-6c554f05 elementor-widget elementor-widget-dsvy_blog_element"
+                                          data-id="6c554f05"
+                                          data-element_type="widget"
+                                          data-widget_type="dsvy_blog_element.default"
+                                        >
+                                          <div className="elementor-widget-container">
+                                            <div
+                                              className="designervily-element designervily-element-blog dsvy-element-blog-style-2 designervily-element-viewtype-row-column designervily-gap-30px"
+                                              data-show="3"
+                                              data-columns="3"
+                                              data-loop="false"
+                                              data-autoplay="false"
+                                              data-center="false"
+                                              data-nav="false"
+                                              data-dots="false"
+                                              data-autoplayspeed="1000"
+                                              data-margin="30px"
+                                            >
+                                              <div className="designervily-element-inner">
+                                                <div className="dsvy-ele-header-area">
+                                                  <div className="dsvy-heading-subheading -align"></div>
+                                                </div>
 
-                                        <div className="dsvy-element-posts-wrapper row multi-columns-row">
-                                          <article className="dsvy-ele dsvy-ele-blog dsvy-blog-style-2 col-md-4 treatment dsvy-term-5 dsvy-odd dsvy-col-odd">
-                                            <div className="post-item">
-                                              <div className="dsvy-featured-container">
-                                                <div className="dsvy-featured-wrapper">
-                                                  <img
-                                                    loading="lazy"
-                                                    decoding="async"
-                                                    width="770"
-                                                    height="635"
-                                                    src="https://cardioly-demo.pbminfotech.com/demo3/wp-content/uploads/sites/4/2020/08/blog-01-770x635.jpg"
-                                                    className="attachment-dsvy-img-770x635 size-dsvy-img-770x635 wp-post-image"
-                                                    alt=""
-                                                  />
-                                                </div>
-                                                <div className="dsvy-meta-date">
-                                                  <span>December 12, 2025</span>
-                                                </div>
-                                              </div>
-                                              <div className="designervily-box-content">
-                                                <div className="dsvy-meta-container">
-                                                  <div className="dsvy-meta-author-wrapper dsvy-meta-line">
-                                                    <a
-                                                      href="https://cardioly-demo.pbminfotech.com/demo3/author/cardiolypbm/"
-                                                      title="Posted by Admin"
-                                                      rel="author"
-                                                    >
-                                                      <i className="dsvy-base-icon-user"></i>
-                                                      Admin
-                                                    </a>
-                                                  </div>
-                                                  <div className="dsvy-meta-comment-wrapper dsvy-meta-line">
-                                                    <i className="dsvy-base-icon-chat-1"></i>
-                                                    <span className="dsvy-meta dsvy-meta-comments">
-                                                      Comments
-                                                    </span>
-                                                  </div>
-                                                </div>
-                                                <h3 className="dsvy-post-title">
-                                                  <a
-                                                    href="https://cardioly-demo.pbminfotech.com/demo3/2020/08/27/is-running-really-good-for-the-heart/"
-                                                    title="Go to Is Running Really Good for the Heart?"
-                                                  >
-                                                    Publications by members of
-                                                    the Mectizan Expert
-                                                    Committee in 2025
-                                                  </a>
-                                                </h3>
-                                                <div className="designervily-box-desc">
-                                                  <div className="designervily-box-desc-text">
-                                                    <p>
-                                                      These are some journal
-                                                      articles published on
-                                                      topics relating to
-                                                      onchocerciasis and
-                                                      lymphatic filariasis by
-                                                      members of the Mectizan
-                                                      Expert
-                                                      Committee/Albendazole
-                                                      Coordination in 2025.
-                                                    </p>
-                                                  </div>
-                                                  <div className="dsvy-read-more-link">
-                                                    <a href="https://cardioly-demo.pbminfotech.com/demo3/2020/08/27/is-running-really-good-for-the-heart/">
-                                                      <span>Read more</span>
-                                                    </a>
-                                                  </div>
+                                                <div className="dsvy-element-posts-wrapper row multi-columns-row">
+                                                  <article className="dsvy-ele dsvy-ele-blog dsvy-blog-style-2 col-md-4 treatment dsvy-term-5 dsvy-odd dsvy-col-odd">
+                                                    <div className="post-item">
+                                                      <div className="dsvy-featured-container">
+                                                        <div className="dsvy-featured-wrapper">
+                                                          <img
+                                                            loading="lazy"
+                                                            decoding="async"
+                                                            width="770"
+                                                            height="635"
+                                                            src="/images/Out04.jpeg"
+                                                            className="attachment-dsvy-img-770x635 size-dsvy-img-770x635 wp-post-image"
+                                                            alt=""
+                                                          />
+                                                        </div>
+                                                        <div className="dsvy-meta-date">
+                                                          <span>
+                                                            March 12, 2023
+                                                          </span>
+                                                        </div>
+                                                      </div>
+                                                      <div className="designervily-box-content">
+                                                        <div className="dsvy-meta-container">
+                                                          <div className="dsvy-meta-author-wrapper dsvy-meta-line">
+                                                            <a
+                                                              href="#"
+                                                              title="Posted by Admin"
+                                                              rel="author"
+                                                            >
+                                                              <i className="dsvy-base-icon-user"></i>
+                                                              Admin
+                                                            </a>
+                                                          </div>
+                                                          <div className="dsvy-meta-comment-wrapper dsvy-meta-line">
+                                                            <i className="dsvy-base-icon-chat-1"></i>
+                                                            <span className="dsvy-meta dsvy-meta-comments">
+                                                              Comments
+                                                            </span>
+                                                          </div>
+                                                        </div>
+                                                        <h3 className="dsvy-post-title">
+                                                          <a
+                                                            href="#"
+                                                            title="Go to Is Running Really Good for the Heart?"
+                                                          >
+                                                            Restoring Hope
+                                                            Through
+                                                            Life-Changing
+                                                            Surgery
+                                                          </a>
+                                                        </h3>
+                                                        <div className="designervily-box-desc">
+                                                          <div className="designervily-box-desc-text">
+                                                            <p>
+                                                              October 21, 2023 —
+                                                              On this remarkable
+                                                              day, the Blessed
+                                                              Victoria Agenyi
+                                                              Foundation (NGO)
+                                                              carried out a
+                                                              successful
+                                                              surgical outreach,
+                                                              bringing renewed
+                                                              hope and healing
+                                                              to a patient in
+                                                              need. With the
+                                                              Founder present
+                                                              during the
+                                                              procedure, this
+                                                              moment reflects
+                                                              our unwavering
+                                                              commitment to
+                                                              accessible
+                                                              healthcare,
+                                                              dignity, and
+                                                              life-changing
+                                                              impact. Together,
+                                                              we continue
+                                                              restoring health,
+                                                              rebuilding lives,
+                                                              and strengthening
+                                                              our communities.
+                                                            </p>
+                                                          </div>
+                                                          <div className="dsvy-read-more-link">
+                                                            <a href="#">
+                                                              <span>
+                                                                Read more
+                                                              </span>
+                                                            </a>
+                                                          </div>
+                                                        </div>
+                                                      </div>
+                                                    </div>
+                                                  </article>
+                                                  <article className="dsvy-ele dsvy-ele-blog dsvy-blog-style-2 col-md-4 healthcare dsvy-term-12 dsvy-even dsvy-col-odd">
+                                                    <div className="post-item">
+                                                      <div className="dsvy-featured-container">
+                                                        <div className="dsvy-featured-wrapper">
+                                                          <img
+                                                            loading="lazy"
+                                                            decoding="async"
+                                                            width="770"
+                                                            height="635"
+                                                            src="/images/Out05.jpeg"
+                                                            className="attachment-dsvy-img-770x635 size-dsvy-img-770x635 wp-post-image"
+                                                            alt=""
+                                                          />
+                                                        </div>
+                                                      </div>
+                                                      <div className="designervily-box-content">
+                                                        <div className="dsvy-meta-container">
+                                                          <div className="dsvy-meta-author-wrapper dsvy-meta-line">
+                                                            <a
+                                                              href="#"
+                                                              title="Posted by Admin"
+                                                              rel="author"
+                                                            >
+                                                              <i className="dsvy-base-icon-user"></i>
+                                                              Admin
+                                                            </a>
+                                                          </div>
+                                                          <div className="dsvy-meta-comment-wrapper dsvy-meta-line">
+                                                            <i className="dsvy-base-icon-chat-1"></i>
+                                                            <span className="dsvy-meta dsvy-meta-comments">
+                                                              Comments
+                                                            </span>
+                                                          </div>
+                                                        </div>
+
+                                                        <h3 className="dsvy-post-title">
+                                                          <a
+                                                            href="#"
+                                                            title="Go to Modeling data increase to endovascular therapy"
+                                                          >
+                                                            Dedicated Care,
+                                                            Lasting Impact
+                                                          </a>
+                                                        </h3>
+                                                        <div className="designervily-box-desc">
+                                                          <div className="designervily-box-desc-text">
+                                                            <p>
+                                                              At the Blessed
+                                                              Victoria Agenyi
+                                                              Foundation (NGO),
+                                                              every medical
+                                                              outreach is driven
+                                                              by
+                                                              professionalism,
+                                                              compassion, and a
+                                                              deep commitment to
+                                                              saving lives. This
+                                                              moment captures
+                                                              our Founder
+                                                              alongside members
+                                                              of the medical
+                                                              team during a
+                                                              patient
+                                                              consultation and
+                                                              surgical support
+                                                              session. Through
+                                                              collaborative
+                                                              expertise and
+                                                              hands-on
+                                                              leadership, we
+                                                              continue to
+                                                              provide quality
+                                                              healthcare
+                                                              services to
+                                                              underserved
+                                                              communities —
+                                                              ensuring that
+                                                              hope, healing, and
+                                                              dignity remain at
+                                                              the center of
+                                                              everything we do.
+                                                            </p>
+                                                          </div>
+                                                          <div className="dsvy-read-more-link">
+                                                            <a href="#">
+                                                              <span>
+                                                                Read more
+                                                              </span>
+                                                            </a>
+                                                          </div>
+                                                        </div>
+                                                      </div>
+                                                    </div>
+                                                  </article>
+                                                  <article className="dsvy-ele dsvy-ele-blog dsvy-blog-style-2 col-md-4 discounts dsvy-term-14 dsvy-odd dsvy-col-odd">
+                                                    <div className="post-item">
+                                                      <div className="dsvy-featured-container">
+                                                        <div className="dsvy-featured-wrapper">
+                                                          <img
+                                                            loading="lazy"
+                                                            decoding="async"
+                                                            width="770"
+                                                            height="635"
+                                                            src="/images/Out01.jpg"
+                                                            className="attachment-dsvy-img-770x635 size-dsvy-img-770x635 wp-post-image"
+                                                            alt=""
+                                                          />
+                                                        </div>
+                                                        <div className="dsvy-meta-date">
+                                                          <span>
+                                                            November 17, 2025
+                                                          </span>
+                                                        </div>
+                                                      </div>
+                                                      <div className="designervily-box-content">
+                                                        <div className="dsvy-meta-container">
+                                                          <div className="dsvy-meta-author-wrapper dsvy-meta-line">
+                                                            <a
+                                                              href="#"
+                                                              title="Posted by Admin"
+                                                              rel="author"
+                                                            >
+                                                              <i className="dsvy-base-icon-user"></i>
+                                                              Admin
+                                                            </a>
+                                                          </div>
+                                                          <div className="dsvy-meta-comment-wrapper dsvy-meta-line">
+                                                            <i className="dsvy-base-icon-chat-1"></i>
+                                                            <span className="dsvy-meta dsvy-meta-comments">
+                                                              Comments
+                                                            </span>
+                                                          </div>
+                                                        </div>
+                                                        <h3 className="dsvy-post-title">
+                                                          <a
+                                                            href="#"
+                                                            title="Go to Get the Exercise Tips for Limited Mobility"
+                                                          >
+                                                            Community Outreach
+                                                            and Impact
+                                                          </a>
+                                                        </h3>
+                                                        <div className="designervily-box-desc">
+                                                          <div className="designervily-box-desc-text">
+                                                            <p>
+                                                              Through the
+                                                              continuous efforts
+                                                              of the Blessed
+                                                              Victoria Agenyi
+                                                              Foundation (NGO),
+                                                              lives are being
+                                                              touched beyond
+                                                              hospital walls.
+                                                              This image
+                                                              reflects a moment
+                                                              of unity — our
+                                                              Founder alongside
+                                                              community members
+                                                              during a recent
+                                                              outreach visit. By
+                                                              engaging directly
+                                                              with families,
+                                                              elders, and local
+                                                              leaders, we
+                                                              strengthen trust,
+                                                              promote health
+                                                              awareness, and
+                                                              ensure that
+                                                              support reaches
+                                                              those who need it
+                                                              most. Together, we
+                                                              are building
+                                                              healthier,
+                                                              stronger
+                                                              communities — one
+                                                              life at a time.
+                                                            </p>
+                                                          </div>
+                                                          <div className="dsvy-read-more-link">
+                                                            <a href="#">
+                                                              <span>
+                                                                Read more
+                                                              </span>
+                                                            </a>
+                                                          </div>
+                                                        </div>
+                                                      </div>
+                                                    </div>
+                                                  </article>
                                                 </div>
                                               </div>
                                             </div>
-                                          </article>
-                                          <article className="dsvy-ele dsvy-ele-blog dsvy-blog-style-2 col-md-4 healthcare dsvy-term-12 dsvy-even dsvy-col-odd">
-                                            <div className="post-item">
-                                              <div className="dsvy-featured-container">
-                                                <div className="dsvy-featured-wrapper">
-                                                  <img
-                                                    loading="lazy"
-                                                    decoding="async"
-                                                    width="770"
-                                                    height="635"
-                                                    src="https://cardioly-demo.pbminfotech.com/demo3/wp-content/uploads/sites/4/2020/08/blog-02-770x635.jpg"
-                                                    className="attachment-dsvy-img-770x635 size-dsvy-img-770x635 wp-post-image"
-                                                    alt=""
-                                                  />
-                                                </div>
-                                                <div className="dsvy-meta-date">
-                                                  <span>November 24, 2025</span>
-                                                </div>
-                                              </div>
-                                              <div className="designervily-box-content">
-                                                <div className="dsvy-meta-container">
-                                                  <div className="dsvy-meta-author-wrapper dsvy-meta-line">
-                                                    <a
-                                                      href="https://cardioly-demo.pbminfotech.com/demo3/author/cardiolypbm/"
-                                                      title="Posted by Admin"
-                                                      rel="author"
-                                                    >
-                                                      <i className="dsvy-base-icon-user"></i>
-                                                      Admin
-                                                    </a>
-                                                  </div>
-                                                  <div className="dsvy-meta-comment-wrapper dsvy-meta-line">
-                                                    <i className="dsvy-base-icon-chat-1"></i>
-                                                    <span className="dsvy-meta dsvy-meta-comments">
-                                                      Comments
-                                                    </span>
-                                                  </div>
-                                                </div>
-                                                <h3 className="dsvy-post-title">
-                                                  <a
-                                                    href="https://cardioly-demo.pbminfotech.com/demo3/2020/08/27/modeling-data-increase-to-endovascular-therapy/"
-                                                    title="Go to Modeling data increase to endovascular therapy"
-                                                  >
-                                                    Dr. Frank Richards receives
-                                                    the 2025 Merck Mectizan
-                                                    Award
-                                                  </a>
-                                                </h3>
-                                                <div className="designervily-box-desc">
-                                                  <div className="designervily-box-desc-text">
-                                                    <p>
-                                                      Mectizan Award, News Dr.
-                                                      Frank Richards, Jr. has
-                                                      been named the recipient
-                                                      of the 2025 Merck Mectizan
-                                                      Award for his outstanding
-                                                      contributions to the
-                                                      elimination of river
-                                                    </p>
-                                                  </div>
-                                                  <div className="dsvy-read-more-link">
-                                                    <a href="https://cardioly-demo.pbminfotech.com/demo3/2020/08/27/modeling-data-increase-to-endovascular-therapy/">
-                                                      <span>Read more</span>
-                                                    </a>
-                                                  </div>
-                                                </div>
-                                              </div>
-                                            </div>
-                                          </article>
-                                          <article className="dsvy-ele dsvy-ele-blog dsvy-blog-style-2 col-md-4 discounts dsvy-term-14 dsvy-odd dsvy-col-odd">
-                                            <div className="post-item">
-                                              <div className="dsvy-featured-container">
-                                                <div className="dsvy-featured-wrapper">
-                                                  <img
-                                                    loading="lazy"
-                                                    decoding="async"
-                                                    width="770"
-                                                    height="635"
-                                                    src="https://cardioly-demo.pbminfotech.com/demo3/wp-content/uploads/sites/4/2020/08/blog-03-770x635.jpg"
-                                                    className="attachment-dsvy-img-770x635 size-dsvy-img-770x635 wp-post-image"
-                                                    alt=""
-                                                  />
-                                                </div>
-                                                <div className="dsvy-meta-date">
-                                                  <span>November 17, 2025</span>
-                                                </div>
-                                              </div>
-                                              <div className="designervily-box-content">
-                                                <div className="dsvy-meta-container">
-                                                  <div className="dsvy-meta-author-wrapper dsvy-meta-line">
-                                                    <a
-                                                      href="https://cardioly-demo.pbminfotech.com/demo3/author/cardiolypbm/"
-                                                      title="Posted by Admin"
-                                                      rel="author"
-                                                    >
-                                                      <i className="dsvy-base-icon-user"></i>
-                                                      Admin
-                                                    </a>
-                                                  </div>
-                                                  <div className="dsvy-meta-comment-wrapper dsvy-meta-line">
-                                                    <i className="dsvy-base-icon-chat-1"></i>
-                                                    <span className="dsvy-meta dsvy-meta-comments">
-                                                      Comments
-                                                    </span>
-                                                  </div>
-                                                </div>
-                                                <h3 className="dsvy-post-title">
-                                                  <a
-                                                    href="https://cardioly-demo.pbminfotech.com/demo3/2020/08/27/get-the-exercise-tips-for-limited-mobility/"
-                                                    title="Go to Get the Exercise Tips for Limited Mobility"
-                                                  >
-                                                    Press release: Extension of
-                                                    Mectizan Donation for Triple
-                                                    Therapy Advances Fight
-                                                    Against Lymphatic Filariasis
-                                                    Through 2030
-                                                  </a>
-                                                </h3>
-                                                <div className="designervily-box-desc">
-                                                  <div className="designervily-box-desc-text">
-                                                    <p>
-                                                      Merck Commemorates 5
-                                                      Billion Mectizan®
-                                                      Treatments Donated Over 38
-                                                      Years November 17, 2025
-                                                      6:45 am EST Extension of
-                                                      Mectizan Donation for
-                                                      Triple Therapy Advances
-                                                    </p>
-                                                  </div>
-                                                  <div className="dsvy-read-more-link">
-                                                    <a href="https://cardioly-demo.pbminfotech.com/demo3/2020/08/27/get-the-exercise-tips-for-limited-mobility/">
-                                                      <span>Read more</span>
-                                                    </a>
-                                                  </div>
-                                                </div>
-                                              </div>
-                                            </div>
-                                          </article>
+                                          </div>
                                         </div>
                                       </div>
                                     </div>
@@ -1145,7 +1296,6 @@ const Donate = () => {
                           </div>
                         </div>
                       </div>
-                      <h3 className="dsvy-hide">Homepage 3</h3>
                     </div>
                   </div>
                 </main>
