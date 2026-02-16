@@ -3,8 +3,8 @@ import Contact from "./Contact";
 
 const Index = () => {
   const Contact = async () => {
-    location.href = "/contact-us"
-  }
+    location.href = "/contact-us";
+  };
   return (
     <>
       <div id="page" className="site dsvy-parent-header-style-4">
@@ -81,14 +81,10 @@ const Index = () => {
                       <div className="site-branding dsvy-logo-area">
                         <div className="wrap">
                           <h1 className="site-title">
-                            <a
-                              href="https://cardioly-demo.pbminfotech.com/demo3/"
-                              rel="home"
-                            >
-
+                            <a href="#" rel="home">
                               <img
                                 className="dsvy-main-logo"
-                                src="https://cardioly-demo.pbminfotech.com/demo3/wp-content/uploads/sites/4/2022/06/logo-1.png"
+                                src="/images/Out09.jpeg"
                                 alt="Cardioly Demo3"
                                 title=""
                               />
@@ -124,8 +120,7 @@ const Index = () => {
                                 <li
                                   id="menu-item-14"
                                   className="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-14"
-                                >
-                                </li>
+                                ></li>
                                 <li
                                   id="menu-item-15"
                                   className="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-15"
@@ -136,49 +131,37 @@ const Index = () => {
                                       id="menu-item-16530"
                                       className="menu-item menu-item-type-post_type menu-item-object-dsvy-service menu-item-16530"
                                     >
-                                      <a href="#">
-                                        Community Services
-                                      </a>
+                                      <a href="#">Community Services</a>
                                     </li>
                                     <li
                                       id="menu-item-16531"
                                       className="menu-item menu-item-type-post_type menu-item-object-dsvy-service menu-item-16531"
                                     >
-                                      <a href="#">
-                                      Vision impairment
-                                      </a>
+                                      <a href="#">Vision impairment</a>
                                     </li>
                                     <li
                                       id="menu-item-16532"
                                       className="menu-item menu-item-type-post_type menu-item-object-dsvy-service menu-item-16532"
                                     >
-                                      <a href="#">
-                                        Children’s services
-                                      </a>
+                                      <a href="#">Children’s services</a>
                                     </li>
                                     <li
                                       id="menu-item-16533"
                                       className="menu-item menu-item-type-post_type menu-item-object-dsvy-service menu-item-16533"
                                     >
-                                      <a href="#">
-                                      Dental Problems
-                                      </a>
+                                      <a href="#">Dental Problems</a>
                                     </li>
                                     <li
                                       id="menu-item-16534"
                                       className="menu-item menu-item-type-post_type menu-item-object-dsvy-service menu-item-16534"
                                     >
-                                      <a href="#">
-                                      Emergency Care
-                                      </a>
+                                      <a href="#">Emergency Care</a>
                                     </li>
                                     <li
                                       id="menu-item-16535"
                                       className="menu-item menu-item-type-post_type menu-item-object-dsvy-service menu-item-16535"
                                     >
-                                      <a href="#">
-                                      Donation and distribution 
-                                      </a>
+                                      <a href="#">Donation and distribution</a>
                                     </li>
                                   </ul>
                                 </li>
@@ -198,9 +181,7 @@ const Index = () => {
                                   id="menu-item-16528"
                                   className="menu-item menu-item-type-post_type menu-item-object-page menu-item-16528"
                                 >
-                                  <a href="/contact-us">
-                                    Contact Us
-                                  </a>
+                                  <a href="/contact-us">Contact Us</a>
                                 </li>
                               </ul>
                             </div>
@@ -253,7 +234,10 @@ const Index = () => {
               </div>
 
               <div className="slider-buttons-container">
-                <div onClick={Contact} className="slider-btn text-light contact-btn">
+                <div
+                  onClick={Contact}
+                  className="slider-btn text-light contact-btn"
+                >
                   CONTACT US
                 </div>
                 <div className="slider-btn text-dark text-dark readmore-btn">
@@ -539,12 +523,12 @@ const Index = () => {
                                               decoding="async"
                                               width={413}
                                               height={2039}
-                                              src="/images/Out01.jpg"
-                                              className="attachment-full"
+                                              src="/images/Out02.jpeg"
+                                              className="attachment-full rounded"
                                               alt=""
                                               srcSet="
-    /images/Out01.jpg 513w,
-    /images/Out01.jpg 286w
+    /images/Out02.jpeg 513w,
+    /images/Out02.jpeg 286w
   "
                                               sizes="(max-width: 513px) 100vw, 513px"
                                             />
@@ -754,8 +738,8 @@ const Index = () => {
                                                         <img
                                                           loading="lazy"
                                                           decoding="async"
-                                                          className="size-full wp-image-15904"
-                                                          src="https://cardioly-demo.pbminfotech.com/demo1/wp-content/uploads/sites/2/2020/10/tab-image.jpg"
+                                                          className="size-full rounded wp-image-15904"
+                                                          src="/images/Out05.jpeg"
                                                           alt=""
                                                           width="284"
                                                           height="128"
@@ -1024,491 +1008,9 @@ const Index = () => {
                             </div>
                           </div>
                         </section>
-                        <section
-                          className="elementor-section elementor-top-section elementor-element elementor-element-755ff668 dsvy-col-stretched-none dsvy-bg-color-over-image elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                          data-id="755ff668"
-                          data-element_type="section"
-                        >
-                          <div className="elementor-container elementor-column-gap-no">
-                            <div
-                              className="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-7e4fbef dsvy-bg-color-over-image"
-                              data-id="7e4fbef"
-                              data-element_type="column"
-                            >
-                              <div className="elementor-widget-wrap elementor-element-populated">
-                                <div
-                                  className="elementor-element elementor-element-214f8634 elementor-widget elementor-widget-dsvy_icon_heading"
-                                  data-id="214f8634"
-                                  data-element_type="widget"
-                                  data-widget_type="dsvy_icon_heading.default"
-                                >
-                                  <div className="elementor-widget-container">
-                                    <div className="dsvy-ihbox dsvy-ihbox-style-4">
-                                      <div className="d-flex">
-                                        <div className="dsvy-ihbox-icon">
-                                          <div className="dsvy-ihbox-icon-wrapper">
-                                            <i className="dsvy-cardioly-icon dsvy-cardioly-icon-online-appointment"></i>
-                                          </div>
-                                        </div>
-                                        <div className="dsvy-ihbox-contents">
-                                          <h4 className="dsvy-element-heading">
-                                            Have any Question?
-                                          </h4>
-                                          <h2 className="dsvy-element-title">
-                                            Book an appointment
-                                          </h2>
-                                        </div>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                            <div
-                              className="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-48b5321d dsvy-bg-color-over-image"
-                              data-id="48b5321d"
-                              data-element_type="column"
-                            >
-                              <div className="elementor-widget-wrap elementor-element-populated">
-                                <div
-                                  className="elementor-element elementor-element-2f3ad267 elementor-widget elementor-widget-dsvy_icon_heading"
-                                  data-id="2f3ad267"
-                                  data-element_type="widget"
-                                  data-widget_type="dsvy_icon_heading.default"
-                                >
-                                  <div className="elementor-widget-container">
-                                    <div className="dsvy-ihbox dsvy-ihbox-style-4">
-                                      <div className="d-flex">
-                                        <div className="dsvy-ihbox-icon">
-                                          <div className="dsvy-ihbox-icon-wrapper">
-                                            <i className="dsvy-cardioly-icon dsvy-cardioly-icon-customer-service"></i>
-                                          </div>
-                                        </div>
-                                        <div className="dsvy-ihbox-contents">
-                                          <h4 className="dsvy-element-heading">
-                                            Have care Requirement?
-                                          </h4>
-                                          <h2 className="dsvy-element-title">
-                                            Call the NGO
-                                          </h2>
-                                        </div>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                            <div
-                              className="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-6a959412 dsvy-bg-color-over-image"
-                              data-id="6a959412"
-                              data-element_type="column"
-                            >
-                              <div className="elementor-widget-wrap"></div>
-                            </div>
-                          </div>
-                        </section>
-                        <section
-                        id="teams"
-                          className="elementor-section elementor-top-section elementor-element elementor-element-2ac89bb2 elementor-section-stretched dsvy-mobile-hide-bg-1200 dsvy-col-stretched-none dsvy-bg-color-over-image elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                          data-id="2ac89bb2"
-                          data-element_type="section"
-                          data-settings='{"stretch_section":"section-stretched","background_background":"classic"}'
-                        >
-                          <div className="elementor-container elementor-column-gap-no">
-                            <div
-                              className="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4bd97ca4 dsvy-bg-color-over-image"
-                              data-id="4bd97ca4"
-                              data-element_type="column"
-                            >
-                              <div className="elementor-widget-wrap elementor-element-populated">
-                                <div
-                                  className="elementor-element elementor-element-6a523f70 dsvy-align-center elementor-widget elementor-widget-dsvy_multiple_icon_heading"
-                                  data-id="6a523f70"
-                                  data-element_type="widget"
-                                  data-widget_type="dsvy_multiple_icon_heading.default"
-                                >
-                                  <div className="elementor-widget-container">
-                                    <div
-                                      className="designervily-element designervily-element-miconheading dsvy-element-miconheading-style-7 designervily-element-viewtype-row-column"
-                                      data-show="3"
-                                      data-columns="4"
-                                      data-loop="false"
-                                      data-autoplay="false"
-                                      data-center="false"
-                                      data-nav="false"
-                                      data-dots="false"
-                                      data-autoplayspeed="1000"
-                                      data-margin=""
-                                    >
-                                      <div className="designervily-element-inner">
-                                        <div className="dsvy-ele-header-area">
-                                          <div className="dsvy-heading-subheading center-align dsvy-reverse-heading-yes">
-                                            <h4 className="dsvy-element-subtitle">
-                                              Our Teams
-                                            </h4>
-                                            <h2 className="dsvy-element-title">
-                                              Our Teams
-                                            </h2>
-                                            <div className="dsvy-heading-desc">
-                                              Our Nigeria team is made up of
-                                              dedicated professionals and
-                                              volunteers who work closely with
-                                              local communities to deliver
-                                              essential healthcare services.
-                                              Through strong local partnerships
-                                              and a deep understanding of
-                                              community needs, the team plays a
-                                              vital role in implementing our
-                                              programs, coordinating medical
-                                              outreach, and ensuring sustainable
-                                              impact across the regions we
-                                              serve.
-                                            </div>
-                                          </div>
-                                        </div>
-
-                                        <div className="dsvy-element-posts-wrapper row multi-columns-row">
-                                          <article className="dsvy-ele dsvy-ele-miconheading dsvy-miconheading-style-7 col-md-6 col-lg-3">
-                                            <div className="dsvy-ihbox dsvy-ihbox-style-7">
-                                              <div className="dsvy-ihbox-box">
-                                                <div className="dsvy-ihbox-icon">
-                                                  <div className="dsvy-ihbox-icon-wrapper dsvy-ihbox-icon-type-image">
-                                                    <img
-                                                      decoding="async"
-                                                      src="https://eyecarefoundation.eu/wp-content/themes/yootheme/cache/40/thijs-405ea3f3.webp"
-                                                      alt="Appointment"
-                                                    />
-                                                  </div>
-                                                </div>
-                                                <div className="dsvy-ihbox-contents">
-                                                  <h2 className="dsvy-element-title">
-                                                    Thijs van Praag
-                                                  </h2>
-                                                  <div className="dsvy-heading-desc">
-                                                    Chair
-                                                  </div>
-                                                </div>
-                                              </div>
-                                            </div>
-                                          </article>
-                                          <article className="dsvy-ele dsvy-ele-miconheading dsvy-miconheading-style-7 col-md-6 col-lg-3">
-                                            <div className="dsvy-ihbox dsvy-ihbox-style-7">
-                                              <div className="dsvy-ihbox-box">
-                                                <div className="dsvy-ihbox-icon">
-                                                  <div className="dsvy-ihbox-icon-wrapper dsvy-ihbox-icon-type-image">
-                                                    <img
-                                                      decoding="async"
-                                                      src="https://eyecarefoundation.eu/wp-content/themes/yootheme/cache/d3/Bestand_003-d34cbfa7.webp"
-                                                      alt="Doctor Checkup"
-                                                    />
-                                                  </div>
-                                                </div>
-                                                <div className="dsvy-ihbox-contents">
-                                                  <h2 className="dsvy-element-title">
-                                                    Indira Rombley
-                                                  </h2>
-                                                  <div className="dsvy-heading-desc">
-                                                    Supervisory board
-                                                  </div>
-                                                </div>
-                                              </div>
-                                            </div>
-                                          </article>
-                                          <article className="dsvy-ele dsvy-ele-miconheading dsvy-miconheading-style-7 col-md-6 col-lg-3">
-                                            <div className="dsvy-ihbox dsvy-ihbox-style-7">
-                                              <div className="dsvy-ihbox-box">
-                                                <div className="dsvy-ihbox-icon">
-                                                  <div className="dsvy-ihbox-icon-wrapper dsvy-ihbox-icon-type-image">
-                                                    <img
-                                                      decoding="async"
-                                                      src="https://eyecarefoundation.eu/wp-content/themes/yootheme/cache/f0/Drew-Keys-f0603108.webp"
-                                                      alt="Manage Treatment"
-                                                    />
-                                                  </div>
-                                                </div>
-                                                <div className="dsvy-ihbox-contents">
-                                                  <h2 className="dsvy-element-title">
-                                                    Drew Keys
-                                                  </h2>
-                                                  <div className="dsvy-heading-desc">
-                                                    Supervisory board
-                                                  </div>
-                                                </div>
-                                              </div>
-                                            </div>
-                                          </article>
-                                          <article className="dsvy-ele dsvy-ele-miconheading dsvy-miconheading-style-7 col-md-6 col-lg-3">
-                                            <div className="dsvy-ihbox dsvy-ihbox-style-7">
-                                              <div className="dsvy-ihbox-box">
-                                                <div className="dsvy-ihbox-icon">
-                                                  <div className="dsvy-ihbox-icon-wrapper dsvy-ihbox-icon-type-image">
-                                                    <img
-                                                      decoding="async"
-                                                      src="https://eyecarefoundation.eu/wp-content/themes/yootheme/cache/b2/Denise-b2971880.webp"
-                                                      alt="Enjoy The Life"
-                                                    />
-                                                  </div>
-                                                </div>
-                                                <div className="dsvy-ihbox-contents">
-                                                  <h2 className="dsvy-element-title">
-                                                    Denise Go-Feij
-                                                  </h2>
-                                                  <div className="dsvy-heading-desc">
-                                                    Supervisory board
-                                                  </div>
-                                                </div>
-                                              </div>
-                                            </div>
-                                          </article>
-                                        </div>
-                                        <div className="dsvy-element-posts-wrapper row multi-columns-row">
-                                          <article className="dsvy-ele dsvy-ele-miconheading dsvy-miconheading-style-7 col-md-6 col-lg-3">
-                                            <div className="dsvy-ihbox dsvy-ihbox-style-7">
-                                              <div className="dsvy-ihbox-box">
-                                                <div className="dsvy-ihbox-icon">
-                                                  <div className="dsvy-ihbox-icon-wrapper dsvy-ihbox-icon-type-image">
-                                                    <img
-                                                      decoding="async"
-                                                      src="https://eyecarefoundation.eu/wp-content/themes/yootheme/cache/40/thijs-405ea3f3.webp"
-                                                      alt="Appointment"
-                                                    />
-                                                  </div>
-                                                </div>
-                                                <div className="dsvy-ihbox-contents">
-                                                  <h2 className="dsvy-element-title">
-                                                    Sasha Bogerd
-                                                  </h2>
-                                                  <div className="dsvy-heading-desc">
-                                                    Supervisory board, treasurer
-                                                  </div>
-                                                </div>
-                                              </div>
-                                            </div>
-                                          </article>
-                                          <article className="dsvy-ele dsvy-ele-miconheading dsvy-miconheading-style-7 col-md-6 col-lg-3">
-                                            <div className="dsvy-ihbox dsvy-ihbox-style-7">
-                                              <div className="dsvy-ihbox-box">
-                                                <div className="dsvy-ihbox-icon">
-                                                  <div className="dsvy-ihbox-icon-wrapper dsvy-ihbox-icon-type-image">
-                                                    <img
-                                                      decoding="async"
-                                                      src="https://eyecarefoundation.eu/wp-content/themes/yootheme/cache/d3/Bestand_003-d34cbfa7.webp"
-                                                      alt="Doctor Checkup"
-                                                    />
-                                                  </div>
-                                                </div>
-                                                <div className="dsvy-ihbox-contents">
-                                                  <h2 className="dsvy-element-title">
-                                                    Björn Stenvers
-                                                  </h2>
-                                                  <div className="dsvy-heading-desc">
-                                                    Director
-                                                  </div>
-                                                </div>
-                                              </div>
-                                            </div>
-                                          </article>
-                                          <article className="dsvy-ele dsvy-ele-miconheading dsvy-miconheading-style-7 col-md-6 col-lg-3">
-                                            <div className="dsvy-ihbox dsvy-ihbox-style-7">
-                                              <div className="dsvy-ihbox-box">
-                                                <div className="dsvy-ihbox-icon">
-                                                  <div className="dsvy-ihbox-icon-wrapper dsvy-ihbox-icon-type-image">
-                                                    <img
-                                                      decoding="async"
-                                                      src="https://eyecarefoundation.eu/wp-content/themes/yootheme/cache/f0/Drew-Keys-f0603108.webp"
-                                                      alt="Manage Treatment"
-                                                    />
-                                                  </div>
-                                                </div>
-                                                <div className="dsvy-ihbox-contents">
-                                                  <h2 className="dsvy-element-title">
-                                                    Margreet Geels
-                                                  </h2>
-                                                  <div className="dsvy-heading-desc">
-                                                    Manager Events
-                                                  </div>
-                                                </div>
-                                              </div>
-                                            </div>
-                                          </article>
-                                          <article className="dsvy-ele dsvy-ele-miconheading dsvy-miconheading-style-7 col-md-6 col-lg-3">
-                                            <div className="dsvy-ihbox dsvy-ihbox-style-7">
-                                              <div className="dsvy-ihbox-box">
-                                                <div className="dsvy-ihbox-icon">
-                                                  <div className="dsvy-ihbox-icon-wrapper dsvy-ihbox-icon-type-image">
-                                                    <img
-                                                      decoding="async"
-                                                      src="https://eyecarefoundation.eu/wp-content/themes/yootheme/cache/b2/Denise-b2971880.webp"
-                                                      alt="Enjoy The Life"
-                                                    />
-                                                  </div>
-                                                </div>
-                                                <div className="dsvy-ihbox-contents">
-                                                  <h2 className="dsvy-element-title">
-                                                    Enjoy The Life
-                                                  </h2>
-                                                  <div className="dsvy-heading-desc">
-                                                    Best care get patient &amp;
-                                                    quickly enjoy a life
-                                                  </div>
-                                                </div>
-                                              </div>
-                                            </div>
-                                          </article>
-                                        </div>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </section>
-                        <section
-                          className="elementor-section elementor-top-section elementor-element elementor-element-5bc4ef01 dsvy-bg-color-yes dsvy-elementor-bg-color-light elementor-section-stretched elementor-section-content-middle dsvy-col-stretched-none dsvy-bg-color-over-image elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                          data-id="5bc4ef01"
-                          data-element_type="section"
-                          data-settings='{"stretch_section":"section-stretched"}'
-                        >
-                          <div className="elementor-container elementor-column-gap-no">
-                            <div
-                              className="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-361eaa60 dsvy-bg-color-over-image"
-                              data-id="361eaa60"
-                              data-element_type="column"
-                            >
-                              <div className="elementor-widget-wrap elementor-element-populated">
-                                <div
-                                  className="elementor-element elementor-element-26cd9a6d elementor-widget-tablet__width-initial elementor-widget-mobile__width-inherit dsvy-align-left elementor-widget elementor-widget-dsvy_heading"
-                                  data-id="26cd9a6d"
-                                  data-element_type="widget"
-                                  data-widget_type="dsvy_heading.default"
-                                >
-                                  <div className="elementor-widget-container">
-                                    <div className="dsvy-heading-subheading left-align dsvy-reverse-heading-yes">
-                                      <h4 className="dsvy-element-subtitle">
-                                        Make Donations
-                                      </h4>
-                                      <h2 className="dsvy-element-title">
-                                        Donations make our work possible
-                                      </h2>
-                                    </div>
-                                  </div>
-                                </div>
-                                <div
-                                  className="elementor-element elementor-element-267bdf02 elementor-widget-tablet__width-initial elementor-widget-mobile__width-inherit elementor-widget elementor-widget-text-editor"
-                                  data-id="267bdf02"
-                                  data-element_type="widget"
-                                  data-widget_type="text-editor.default"
-                                >
-                                  <div className="elementor-widget-container">
-                                    Our activities for good eye care are
-                                    possible through active funding. Eye Care
-                                    Foundation runs entirely on donations, large
-                                    and small. Donations make our work possible;
-                                    without them, these regions have no
-                                    opportunities for good eye care. We use our
-                                    donations directly for all our activities.
-                                  </div>
-                                </div>
-                                <div
-                                  className="elementor-element elementor-element-32c98e5f elementor-widget-tablet__width-initial elementor-widget-mobile__width-inherit elementor-widget elementor-widget-dsvy_icon_heading"
-                                  data-id="32c98e5f"
-                                  data-element_type="widget"
-                                  data-widget_type="dsvy_icon_heading.default"
-                                >
-                                  <div className="elementor-widget-container">
-                                    <div className="dsvy-ihbox dsvy-ihbox-style-5">
-                                      <div className="d-flex">
-                                        <div className="dsvy-ihbox-icon">
-                                          <div className="dsvy-ihbox-icon-wrapper">
-                                            <i className="dsvy-cardioly-icon dsvy-cardioly-icon-medicine"></i>
-                                          </div>
-                                        </div>
-                                        <div className="dsvy-ihbox-contents">
-                                          <h2 className="dsvy-element-title">
-                                            Medical Solutions
-                                          </h2>
-                                          <div className="dsvy-heading-desc">
-                                            We are provide the best and health
-                                            care medical solutions
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>
-                                <div
-                                  className="elementor-element elementor-element-6ffeab0b elementor-widget-tablet__width-initial elementor-widget-mobile__width-inherit elementor-widget elementor-widget-dsvy_icon_heading"
-                                  data-id="6ffeab0b"
-                                  data-element_type="widget"
-                                  data-widget_type="dsvy_icon_heading.default"
-                                >
-                                  <div className="elementor-widget-container">
-                                    <div className="dsvy-ihbox dsvy-ihbox-style-5">
-                                      <div className="d-flex">
-                                        <div className="dsvy-ihbox-icon">
-                                          <div className="dsvy-ihbox-icon-wrapper">
-                                            <i className="dsvy-cardioly-icon dsvy-cardioly-icon-heart-rate-monitor"></i>
-                                          </div>
-                                        </div>
-                                        <div className="dsvy-ihbox-contents">
-                                          <h2 className="dsvy-element-title">
-                                            Heart rate monitor
-                                          </h2>
-                                          <div className="dsvy-heading-desc">
-                                            Our doctor check patient heart rate
-                                            on heart rate monitor
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </div>
-                                  </div>
-                                  <div className="dsvy-read-more-link">
-                                    <a href="https://cardioly-demo.pbminfotech.com/demo3/2020/08/27/is-running-really-good-for-the-heart/">
-                                      <span>Read more</span>
-                                    </a>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                            <div
-                              className="elementor-column elementor-col-66 elementor-top-column elementor-element elementor-element-20ddf093 dsvy-bg-color-over-image"
-                              data-id="20ddf093"
-                              data-element_type="column"
-                            >
-                              <div className="elementor-widget-wrap elementor-element-populated">
-                                <div
-                                  className="elementor-element elementor-element-fd71f88 elementor-widget elementor-widget-dsvy_ptable_element"
-                                  data-id="fd71f88"
-                                  data-element_type="widget"
-                                  data-widget_type="dsvy_ptable_element.default"
-                                >
-                                  <div className="elementor-widget-container">
-                                    <div className="designervily-ele designervily-ele-pricing-table designervily-ele-ptable-style-1">
-                                      <div className="dsvy-ele-header-area">
-                                        <div className="dsvy-heading-subheading -align"></div>
-                                      </div>
-                                      <div className="dsvy-ptable-cols row multi-columns-row">
-                                        <div className="dsvy-ptable-col col-md-12">
-                                          <img
-                                            src="/images/Out01.jpg"
-                                            className="rounded"
-                                            alt=""
-                                            srcset=""
-                                          />
-                                        </div>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </section>
-
                         <div
-                        id="blog"
-                          className="elementor-section elementor-top-section elementor-element elementor-element-3a076056 dsvy-col-stretched-none dsvy-bg-color-over-image elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                          id="blog"
+                          className="mt-5 elementor-section elementor-top-section elementor-element elementor-element-3a076056 dsvy-col-stretched-none dsvy-bg-color-over-image elementor-section-boxed elementor-section-height-default elementor-section-height-default"
                           data-id="3a076056"
                           data-element_type="section"
                         >
@@ -1610,20 +1112,20 @@ const Index = () => {
                                                     decoding="async"
                                                     width="770"
                                                     height="635"
-                                                    src="https://cardioly-demo.pbminfotech.com/demo3/wp-content/uploads/sites/4/2020/08/blog-01-770x635.jpg"
+                                                    src="/images/Out04.jpeg"
                                                     className="attachment-dsvy-img-770x635 size-dsvy-img-770x635 wp-post-image"
                                                     alt=""
                                                   />
                                                 </div>
                                                 <div className="dsvy-meta-date">
-                                                  <span>December 12, 2025</span>
+                                                  <span>March 12, 2023</span>
                                                 </div>
                                               </div>
                                               <div className="designervily-box-content">
                                                 <div className="dsvy-meta-container">
                                                   <div className="dsvy-meta-author-wrapper dsvy-meta-line">
                                                     <a
-                                                      href="https://cardioly-demo.pbminfotech.com/demo3/author/cardiolypbm/"
+                                                      href="#"
                                                       title="Posted by Admin"
                                                       rel="author"
                                                     >
@@ -1640,30 +1142,39 @@ const Index = () => {
                                                 </div>
                                                 <h3 className="dsvy-post-title">
                                                   <a
-                                                    href="https://cardioly-demo.pbminfotech.com/demo3/2020/08/27/is-running-really-good-for-the-heart/"
+                                                    href="#"
                                                     title="Go to Is Running Really Good for the Heart?"
                                                   >
-                                                    Publications by members of
-                                                    the Mectizan Expert
-                                                    Committee in 2025
+                                                    Restoring Hope Through
+                                                    Life-Changing Surgery
                                                   </a>
                                                 </h3>
                                                 <div className="designervily-box-desc">
                                                   <div className="designervily-box-desc-text">
                                                     <p>
-                                                      These are some journal
-                                                      articles published on
-                                                      topics relating to
-                                                      onchocerciasis and
-                                                      lymphatic filariasis by
-                                                      members of the Mectizan
-                                                      Expert
-                                                      Committee/Albendazole
-                                                      Coordination in 2025.
+                                                      October 21, 2023 — On this
+                                                      remarkable day, the
+                                                      Blessed Victoria Agenyi
+                                                      Foundation (NGO) carried
+                                                      out a successful surgical
+                                                      outreach, bringing renewed
+                                                      hope and healing to a
+                                                      patient in need. With the
+                                                      Founder present during the
+                                                      procedure, this moment
+                                                      reflects our unwavering
+                                                      commitment to accessible
+                                                      healthcare, dignity, and
+                                                      life-changing impact.
+                                                      Together, we continue
+                                                      restoring health,
+                                                      rebuilding lives, and
+                                                      strengthening our
+                                                      communities.
                                                     </p>
                                                   </div>
                                                   <div className="dsvy-read-more-link">
-                                                    <a href="https://cardioly-demo.pbminfotech.com/demo3/2020/08/27/is-running-really-good-for-the-heart/">
+                                                    <a href="#">
                                                       <span>Read more</span>
                                                     </a>
                                                   </div>
@@ -1680,20 +1191,20 @@ const Index = () => {
                                                     decoding="async"
                                                     width="770"
                                                     height="635"
-                                                    src="https://cardioly-demo.pbminfotech.com/demo3/wp-content/uploads/sites/4/2020/08/blog-02-770x635.jpg"
+                                                    src="/images/Out05.jpeg"
                                                     className="attachment-dsvy-img-770x635 size-dsvy-img-770x635 wp-post-image"
                                                     alt=""
                                                   />
                                                 </div>
                                                 <div className="dsvy-meta-date">
-                                                  <span>November 24, 2025</span>
+                                                  <span>OCTOBER 24, 2024</span>
                                                 </div>
                                               </div>
                                               <div className="designervily-box-content">
                                                 <div className="dsvy-meta-container">
                                                   <div className="dsvy-meta-author-wrapper dsvy-meta-line">
                                                     <a
-                                                      href="https://cardioly-demo.pbminfotech.com/demo3/author/cardiolypbm/"
+                                                      href="#"
                                                       title="Posted by Admin"
                                                       rel="author"
                                                     >
@@ -1710,28 +1221,42 @@ const Index = () => {
                                                 </div>
                                                 <h3 className="dsvy-post-title">
                                                   <a
-                                                    href="https://cardioly-demo.pbminfotech.com/demo3/2020/08/27/modeling-data-increase-to-endovascular-therapy/"
+                                                    href="#"
                                                     title="Go to Modeling data increase to endovascular therapy"
                                                   >
-                                                    Dr. Frank Richards receives
-                                                    the 2025 Merck Mectizan
-                                                    Award
+                                                    Dedicated Care, Lasting
+                                                    Impact
                                                   </a>
                                                 </h3>
                                                 <div className="designervily-box-desc">
                                                   <div className="designervily-box-desc-text">
                                                     <p>
-                                                      Mectizan Award, News Dr.
-                                                      Frank Richards, Jr. has
-                                                      been named the recipient
-                                                      of the 2025 Merck Mectizan
-                                                      Award for his outstanding
-                                                      contributions to the
-                                                      elimination of river
+                                                      At the Blessed Victoria
+                                                      Agenyi Foundation (NGO), every
+                                                      medical outreach is driven
+                                                      by professionalism,
+                                                      compassion, and a deep
+                                                      commitment to saving
+                                                      lives. This moment
+                                                      captures our Founder
+                                                      alongside members of the
+                                                      medical team during a
+                                                      patient consultation and
+                                                      surgical support session.
+                                                      Through collaborative
+                                                      expertise and hands-on
+                                                      leadership, we continue to
+                                                      provide quality healthcare
+                                                      services to underserved
+                                                      communities — ensuring
+                                                      that hope, healing, and
+                                                      dignity remain at the
+                                                      center of everything we
+                                                      do.
                                                     </p>
                                                   </div>
                                                   <div className="dsvy-read-more-link">
-                                                    <a href="https://cardioly-demo.pbminfotech.com/demo3/2020/08/27/modeling-data-increase-to-endovascular-therapy/">
+                                                    <a href="#">
                                                       <span>Read more</span>
                                                     </a>
                                                   </div>
@@ -1748,7 +1273,7 @@ const Index = () => {
                                                     decoding="async"
                                                     width="770"
                                                     height="635"
-                                                    src="https://cardioly-demo.pbminfotech.com/demo3/wp-content/uploads/sites/4/2020/08/blog-03-770x635.jpg"
+                                                    src="/images/Out01.jpg"
                                                     className="attachment-dsvy-img-770x635 size-dsvy-img-770x635 wp-post-image"
                                                     alt=""
                                                   />
@@ -1761,7 +1286,7 @@ const Index = () => {
                                                 <div className="dsvy-meta-container">
                                                   <div className="dsvy-meta-author-wrapper dsvy-meta-line">
                                                     <a
-                                                      href="https://cardioly-demo.pbminfotech.com/demo3/author/cardiolypbm/"
+                                                      href="#"
                                                       title="Posted by Admin"
                                                       rel="author"
                                                     >
@@ -1778,30 +1303,41 @@ const Index = () => {
                                                 </div>
                                                 <h3 className="dsvy-post-title">
                                                   <a
-                                                    href="https://cardioly-demo.pbminfotech.com/demo3/2020/08/27/get-the-exercise-tips-for-limited-mobility/"
+                                                    href="#"
                                                     title="Go to Get the Exercise Tips for Limited Mobility"
                                                   >
-                                                    Press release: Extension of
-                                                    Mectizan Donation for Triple
-                                                    Therapy Advances Fight
-                                                    Against Lymphatic Filariasis
-                                                    Through 2030
+                                                    Community Outreach and
+                                                    Impact
                                                   </a>
                                                 </h3>
                                                 <div className="designervily-box-desc">
                                                   <div className="designervily-box-desc-text">
                                                     <p>
-                                                      Merck Commemorates 5
-                                                      Billion Mectizan®
-                                                      Treatments Donated Over 38
-                                                      Years November 17, 2025
-                                                      6:45 am EST Extension of
-                                                      Mectizan Donation for
-                                                      Triple Therapy Advances
+                                                      Through the continuous
+                                                      efforts of the Blessed
+                                                      Victoria Agenyi Foundation
+                                                      (NGO), lives are being
+                                                      touched beyond hospital
+                                                      walls. This image reflects
+                                                      a moment of unity — our
+                                                      Founder alongside
+                                                      community members during a
+                                                      recent outreach visit. By
+                                                      engaging directly with
+                                                      families, elders, and
+                                                      local leaders, we
+                                                      strengthen trust, promote
+                                                      health awareness, and
+                                                      ensure that support
+                                                      reaches those who need it
+                                                      most. Together, we are
+                                                      building healthier,
+                                                      stronger communities — one
+                                                      life at a time.
                                                     </p>
                                                   </div>
                                                   <div className="dsvy-read-more-link">
-                                                    <a href="https://cardioly-demo.pbminfotech.com/demo3/2020/08/27/get-the-exercise-tips-for-limited-mobility/">
+                                                    <a href="#">
                                                       <span>Read more</span>
                                                     </a>
                                                   </div>
@@ -1818,8 +1354,148 @@ const Index = () => {
                             </div>
                           </div>
                         </div>
+                        <section
+                          className="elementor-section elementor-top-section elementor-element elementor-element-5bc4ef01 dsvy-bg-color-yes dsvy-elementor-bg-color-light elementor-section-stretched elementor-section-content-middle dsvy-col-stretched-none dsvy-bg-color-over-image elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                          data-id="5bc4ef01"
+                          data-element_type="section"
+                          data-settings='{"stretch_section":"section-stretched"}'
+                        >
+                          <div className="elementor-container elementor-column-gap-no">
+                            <div
+                              className="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-361eaa60 dsvy-bg-color-over-image"
+                              data-id="361eaa60"
+                              data-element_type="column"
+                            >
+                              <div className="elementor-widget-wrap elementor-element-populated">
+                                <div
+                                  className="elementor-element elementor-element-26cd9a6d elementor-widget-tablet__width-initial elementor-widget-mobile__width-inherit dsvy-align-left elementor-widget elementor-widget-dsvy_heading"
+                                  data-id="26cd9a6d"
+                                  data-element_type="widget"
+                                  data-widget_type="dsvy_heading.default"
+                                >
+                                  <div className="elementor-widget-container">
+                                    <div className="dsvy-heading-subheading left-align dsvy-reverse-heading-yes">
+                                      <h4 className="dsvy-element-subtitle">
+                                        Make Donations
+                                      </h4>
+                                      <h2 className="dsvy-element-title">
+                                        Donations make our work possible
+                                      </h2>
+                                    </div>
+                                  </div>
+                                </div>
+                                <div
+                                  className="elementor-element elementor-element-267bdf02 elementor-widget-tablet__width-initial elementor-widget-mobile__width-inherit elementor-widget elementor-widget-text-editor"
+                                  data-id="267bdf02"
+                                  data-element_type="widget"
+                                  data-widget_type="text-editor.default"
+                                >
+                                  <div className="elementor-widget-container">
+                                    Our activities for good eye care are
+                                    possible through active funding. Eye Care
+                                    Foundation runs entirely on donations, large
+                                    and small. Donations make our work possible;
+                                    without them, these regions have no
+                                    opportunities for good eye care. We use our
+                                    donations directly for all our activities.
+                                  </div>
+                                </div>
+                                <div
+                                  className="elementor-element elementor-element-32c98e5f elementor-widget-tablet__width-initial elementor-widget-mobile__width-inherit elementor-widget elementor-widget-dsvy_icon_heading"
+                                  data-id="32c98e5f"
+                                  data-element_type="widget"
+                                  data-widget_type="dsvy_icon_heading.default"
+                                >
+                                  <div className="elementor-widget-container">
+                                    <div className="dsvy-ihbox dsvy-ihbox-style-5">
+                                      <div className="d-flex">
+                                        <div className="dsvy-ihbox-icon">
+                                          <div className="dsvy-ihbox-icon-wrapper">
+                                            <i className="dsvy-cardioly-icon dsvy-cardioly-icon-medicine"></i>
+                                          </div>
+                                        </div>
+                                        <div className="dsvy-ihbox-contents">
+                                          <h2 className="dsvy-element-title">
+                                            Medical Solutions
+                                          </h2>
+                                          <div className="dsvy-heading-desc">
+                                            We are provide the best and health
+                                            care medical solutions
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                                <div
+                                  className="elementor-element elementor-element-6ffeab0b elementor-widget-tablet__width-initial elementor-widget-mobile__width-inherit elementor-widget elementor-widget-dsvy_icon_heading"
+                                  data-id="6ffeab0b"
+                                  data-element_type="widget"
+                                  data-widget_type="dsvy_icon_heading.default"
+                                >
+                                  <div className="elementor-widget-container">
+                                    <div className="dsvy-ihbox dsvy-ihbox-style-5">
+                                      <div className="d-flex">
+                                        <div className="dsvy-ihbox-icon">
+                                          <div className="dsvy-ihbox-icon-wrapper">
+                                            <i className="dsvy-cardioly-icon dsvy-cardioly-icon-heart-rate-monitor"></i>
+                                          </div>
+                                        </div>
+                                        <div className="dsvy-ihbox-contents">
+                                          <h2 className="dsvy-element-title">
+                                            Heart rate monitor
+                                          </h2>
+                                          <div className="dsvy-heading-desc">
+                                            Our doctor check patient heart rate
+                                            on heart rate monitor
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                  <div className="dsvy-read-more-link">
+                                    <a href="#">
+                                      <span>Read more</span>
+                                    </a>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            <div
+                              className="elementor-column elementor-col-66 elementor-top-column elementor-element elementor-element-20ddf093 dsvy-bg-color-over-image"
+                              data-id="20ddf093"
+                              data-element_type="column"
+                            >
+                              <div className="elementor-widget-wrap elementor-element-populated">
+                                <div
+                                  className="elementor-element elementor-element-fd71f88 elementor-widget elementor-widget-dsvy_ptable_element"
+                                  data-id="fd71f88"
+                                  data-element_type="widget"
+                                  data-widget_type="dsvy_ptable_element.default"
+                                >
+                                  <div className="elementor-widget-container">
+                                    <div className="designervily-ele designervily-ele-pricing-table designervily-ele-ptable-style-1">
+                                      <div className="dsvy-ele-header-area">
+                                        <div className="dsvy-heading-subheading -align"></div>
+                                      </div>
+                                      <div className="dsvy-ptable-cols row multi-columns-row">
+                                        <div className="dsvy-ptable-col col-md-12">
+                                          <img
+                                            src="/images/Out01.jpg"
+                                            className="rounded"
+                                            alt=""
+                                            srcset=""
+                                          />
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </section>
                       </div>
-                      <h3 className="dsvy-hide">Homepage 3</h3>
                     </div>
                   </div>
                 </main>
@@ -1839,7 +1515,7 @@ const Index = () => {
                         <div className="dsvy-footer-logo">
                           <img
                             className="dsvy-main-logo"
-                            src="https://cardioly-demo.pbminfotech.com/demo3/wp-content/uploads/sites/4/2022/06/logo-1-1.png"
+                            src="/images/Out09.jpeg"
                             alt="Cardioly Demo3"
                             title="Cardioly Demo3"
                           />
@@ -1959,7 +1635,10 @@ const Index = () => {
                             id="menu-item-16062"
                             className="menu-item menu-item-type-custom menu-item-object-custom menu-item-16062"
                           >
-                            <a href="#">Donation and distribution of medical eye care equipment</a>
+                            <a href="#">
+                              Donation and distribution of medical eye care
+                              equipment
+                            </a>
                           </li>
                         </ul>
                       </div>
@@ -1973,19 +1652,19 @@ const Index = () => {
                       <h2 className="widget-title">Latest News</h2>
                       <ul className="dsvy-rpw-list">
                         <li>
-                          <a href="https://cardioly-demo.pbminfotech.com/demo3/2020/08/27/is-running-really-good-for-the-heart/">
+                          <a href="#">
                             <span className="dsvy-rpw-img">
                               <img
                                 width="150"
                                 height="150"
-                                src="https://cardioly-demo.pbminfotech.com/demo3/wp-content/uploads/sites/4/2020/08/blog-01-150x150.jpg"
+                                src="/images/Out02.jpeg"
                                 className="attachment-thumbnail size-thumbnail wp-post-image"
                                 alt=""
                                 decoding="async"
                                 srcset="
-                                https://cardioly-demo.pbminfotech.com/demo3/wp-content/uploads/sites/4/2020/08/blog-01-150x150.jpg 150w,
-                                https://cardioly-demo.pbminfotech.com/demo3/wp-content/uploads/sites/4/2020/08/blog-01-770x770.jpg 770w,
-                                https://cardioly-demo.pbminfotech.com/demo3/wp-content/uploads/sites/4/2020/08/blog-01-300x300.jpg 300w
+                                /images/Out02.jpeg 150w,
+                                /images/Out02.jpeg 770w,
+                                /images/Out02.jpeg 300w
                               "
                                 sizes="(max-width: 150px) 100vw, 150px"
                               />
@@ -1993,46 +1672,42 @@ const Index = () => {
                           </a>
                           <span className="dsvy-rpw-content">
                             <span className="dsvy-rpw-title">
-                              <a href="https://cardioly-demo.pbminfotech.com/demo3/2020/08/27/is-running-really-good-for-the-heart/">
+                              <a href="#">
                                 Is Running Really Good for the Heart?
                               </a>
                             </span>
                             <span className="dsvy-rpw-date">
-                              <a href="https://cardioly-demo.pbminfotech.com/demo3/2020/08/27/is-running-really-good-for-the-heart/">
-                                August 27, 2020
-                              </a>
+                              <a href="#">August 27, 2020</a>
                             </span>
                           </span>
                         </li>
                         <li>
-                          <a href="https://cardioly-demo.pbminfotech.com/demo3/2020/08/27/modeling-data-increase-to-endovascular-therapy/">
+                          <a href="#">
                             <span className="dsvy-rpw-img">
                               <img
                                 width="150"
                                 height="150"
-                                src="https://cardioly-demo.pbminfotech.com/demo3/wp-content/uploads/sites/4/2020/08/blog-02-150x150.jpg"
+                                src="/images/Out06.jpeg"
                                 className="attachment-thumbnail size-thumbnail wp-post-image"
                                 alt=""
                                 decoding="async"
-                                srcset="
-                                https://cardioly-demo.pbminfotech.com/demo3/wp-content/uploads/sites/4/2020/08/blog-02-150x150.jpg 150w,
-                                https://cardioly-demo.pbminfotech.com/demo3/wp-content/uploads/sites/4/2020/08/blog-02-770x770.jpg 770w,
-                                https://cardioly-demo.pbminfotech.com/demo3/wp-content/uploads/sites/4/2020/08/blog-02-300x300.jpg 300w
-                              "
                                 sizes="(max-width: 150px) 100vw, 150px"
+                                srcset="
+                                /images/Out06.jpeg 150w,
+                                /images/Out06.jpeg 770w,
+                                /images/Out06.jpeg 300w
+                              "
                               />
                             </span>
                           </a>
                           <span className="dsvy-rpw-content">
                             <span className="dsvy-rpw-title">
-                              <a href="https://cardioly-demo.pbminfotech.com/demo3/2020/08/27/modeling-data-increase-to-endovascular-therapy/">
+                              <a href="#">
                                 Modeling data increase to endovascular therapy
                               </a>
                             </span>
                             <span className="dsvy-rpw-date">
-                              <a href="https://cardioly-demo.pbminfotech.com/demo3/2020/08/27/modeling-data-increase-to-endovascular-therapy/">
-                                August 27, 2020
-                              </a>
+                              <a href="#">August 27, 2020</a>
                             </span>
                           </span>
                         </li>
