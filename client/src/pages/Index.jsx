@@ -1196,9 +1196,6 @@ const Index = () => {
                                                     alt=""
                                                   />
                                                 </div>
-                                                <div className="dsvy-meta-date">
-                                                  <span>OCTOBER 24, 2024</span>
-                                                </div>
                                               </div>
                                               <div className="designervily-box-content">
                                                 <div className="dsvy-meta-container">
@@ -1219,6 +1216,7 @@ const Index = () => {
                                                     </span>
                                                   </div>
                                                 </div>
+                                                
                                                 <h3 className="dsvy-post-title">
                                                   <a
                                                     href="#"
@@ -1232,9 +1230,9 @@ const Index = () => {
                                                   <div className="designervily-box-desc-text">
                                                     <p>
                                                       At the Blessed Victoria
-                                                      Agenyi Foundation (NGO), every
-                                                      medical outreach is driven
-                                                      by professionalism,
+                                                      Agenyi Foundation (NGO),
+                                                      every medical outreach is
+                                                      driven by professionalism,
                                                       compassion, and a deep
                                                       commitment to saving
                                                       lives. This moment
