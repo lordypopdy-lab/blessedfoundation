@@ -1357,7 +1357,7 @@ const Index = () => {
                                                   />
                                                 </div>
                                                 <div className="dsvy-meta-date">
-                                                  <span>Febuary 17, 2026</span>
+                                                  <span>February 17, 2026</span>
                                                 </div>
                                               </div>
                                               <div className="designervily-box-content">
@@ -1529,7 +1529,7 @@ const Index = () => {
                                                   />
                                                 </div>
                                                 <div className="dsvy-meta-date">
-                                                  <span>Febuary 17, 2026</span>
+                                                  <span>February 17, 2026</span>
                                                 </div>
                                               </div>
                                               <div className="designervily-box-content">
