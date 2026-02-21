@@ -190,10 +190,7 @@ const Index = () => {
                       </div>
                       <div className="dsvy-search-cart-box">
                         <div className="dsvy-cart-wrapper dsvy-cart-style-2">
-                          <a
-                            href="https://cardioly-demo.pbminfotech.com/demo3/cart/"
-                            className="dsvy-cart-link"
-                          >
+                          <a href="#" className="dsvy-cart-link">
                             <span className="dsvy-cart-details">
                               <span className="dsvy-cart-icon">
                                 <i className="dsvy-base-icon-supermarket-2"></i>
@@ -258,7 +255,7 @@ const Index = () => {
                   role="search"
                   method="get"
                   className="search-form"
-                  action="https://cardioly-demo.pbminfotech.com/demo3/"
+                  action="#"
                 >
                   <label for="search-form-69368a43b7ad7">
                     <span className="screen-reader-text">Search for:</span>
@@ -1216,7 +1213,7 @@ const Index = () => {
                                                     </span>
                                                   </div>
                                                 </div>
-                                                
+
                                                 <h3 className="dsvy-post-title">
                                                   <a
                                                     href="#"
@@ -1332,6 +1329,268 @@ const Index = () => {
                                                       building healthier,
                                                       stronger communities — one
                                                       life at a time.
+                                                    </p>
+                                                  </div>
+                                                  <div className="dsvy-read-more-link">
+                                                    <a href="#">
+                                                      <span>Read more</span>
+                                                    </a>
+                                                  </div>
+                                                </div>
+                                              </div>
+                                            </div>
+                                          </article>
+                                        </div>
+                                        <div className="dsvy-element-posts-wrapper row multi-columns-row">
+                                          <article className="dsvy-ele dsvy-ele-blog dsvy-blog-style-2 col-md-4 treatment dsvy-term-5 dsvy-odd dsvy-col-odd">
+                                            <div className="post-item">
+                                              <div className="dsvy-featured-container">
+                                                <div className="dsvy-featured-wrapper">
+                                                  <img
+                                                    loading="lazy"
+                                                    decoding="async"
+                                                    width="770"
+                                                    height="635"
+                                                    src="/images/Out12.jpeg"
+                                                    className="attachment-dsvy-img-770x635 size-dsvy-img-770x635 wp-post-image"
+                                                    alt=""
+                                                  />
+                                                </div>
+                                                <div className="dsvy-meta-date">
+                                                  <span>Febuary 17, 2026</span>
+                                                </div>
+                                              </div>
+                                              <div className="designervily-box-content">
+                                                <div className="dsvy-meta-container">
+                                                  <div className="dsvy-meta-author-wrapper dsvy-meta-line">
+                                                    <a
+                                                      href="#"
+                                                      title="Posted by Admin"
+                                                      rel="author"
+                                                    >
+                                                      <i className="dsvy-base-icon-user"></i>
+                                                      Admin
+                                                    </a>
+                                                  </div>
+                                                  <div className="dsvy-meta-comment-wrapper dsvy-meta-line">
+                                                    <i className="dsvy-base-icon-chat-1"></i>
+                                                    <span className="dsvy-meta dsvy-meta-comments">
+                                                      Comments
+                                                    </span>
+                                                  </div>
+                                                </div>
+                                                <h3 className="dsvy-post-title">
+                                                  <a
+                                                    href="#"
+                                                    title="Go to Is Running Really Good for the Heart?"
+                                                  >
+                                                    Care for Your Vision 2026 –
+                                                    Community Outreach
+                                                  </a>
+                                                </h3>
+                                                <div className="designervily-box-desc">
+                                                  <div className="designervily-box-desc-text">
+                                                    <p>
+                                                      The Blessed Victoria
+                                                      Agenyi Eye Foundation, in
+                                                      collaboration with Dr.
+                                                      Evans Eye Clinic,
+                                                      successfully organized the
+                                                      “Care for Your Vision
+                                                      2026” outreach program at
+                                                      St. Francis Catholic
+                                                      Church, Pegi. The outreach
+                                                      provided free eye
+                                                      examinations, vision
+                                                      assessments, blood
+                                                      pressure and sugar tests,
+                                                      as well as dental
+                                                      screenings for members of
+                                                      the community. Children
+                                                      and adults alike received
+                                                      professional
+                                                      consultations, and those
+                                                      requiring corrective
+                                                      lenses were properly
+                                                      attended to. Through
+                                                      compassion, teamwork, and
+                                                      medical expertise, the
+                                                      foundation continues to
+                                                      promote accessible
+                                                      healthcare and prevent
+                                                      avoidable visual
+                                                      impairment within
+                                                      underserved communities.
+                                                    </p>
+                                                  </div>
+                                                  <div className="dsvy-read-more-link">
+                                                    <a href="#">
+                                                      <span>Read more</span>
+                                                    </a>
+                                                  </div>
+                                                </div>
+                                              </div>
+                                            </div>
+                                          </article>
+                                          <article className="dsvy-ele dsvy-ele-blog dsvy-blog-style-2 col-md-4 healthcare dsvy-term-12 dsvy-even dsvy-col-odd">
+                                            <div className="post-item">
+                                              <div className="dsvy-featured-container">
+                                                <div className="dsvy-featured-wrapper">
+                                                  <img
+                                                    loading="lazy"
+                                                    decoding="async"
+                                                    width="770"
+                                                    height="635"
+                                                    src="/images/Out16.jpeg"
+                                                    className="attachment-dsvy-img-770x635 size-dsvy-img-770x635 wp-post-image"
+                                                    alt=""
+                                                  />
+                                                </div>
+                                              </div>
+                                              <div className="designervily-box-content">
+                                                <div className="dsvy-meta-container">
+                                                  <div className="dsvy-meta-author-wrapper dsvy-meta-line">
+                                                    <a
+                                                      href="#"
+                                                      title="Posted by Admin"
+                                                      rel="author"
+                                                    >
+                                                      <i className="dsvy-base-icon-user"></i>
+                                                      Admin
+                                                    </a>
+                                                  </div>
+                                                  <div className="dsvy-meta-comment-wrapper dsvy-meta-line">
+                                                    <i className="dsvy-base-icon-chat-1"></i>
+                                                    <span className="dsvy-meta dsvy-meta-comments">
+                                                      Comments
+                                                    </span>
+                                                  </div>
+                                                </div>
+
+                                                <h3 className="dsvy-post-title">
+                                                  <a
+                                                    href="#"
+                                                    title="Go to Modeling data increase to endovascular therapy"
+                                                  >
+                                                    A Brighter Future Through
+                                                    Care
+                                                  </a>
+                                                </h3>
+                                                <div className="designervily-box-desc">
+                                                  <div className="designervily-box-desc-text">
+                                                    <p>
+                                                      During our recent
+                                                      community outreach, a
+                                                      young girl received a
+                                                      professional eye screening
+                                                      while her mother stood
+                                                      closely by her side. This
+                                                      simple yet powerful moment
+                                                      reflects our mission —
+                                                      providing accessible,
+                                                      compassionate healthcare
+                                                      to families in underserved
+                                                      communities. Early vision
+                                                      checks are essential for
+                                                      children’s learning and
+                                                      development. Through
+                                                      dedicated medical care and
+                                                      parental support, we
+                                                      continue to promote
+                                                      healthy vision and
+                                                      brighter futures for every
+                                                      child we serve. Together,
+                                                      we are restoring sight and
+                                                      renewing hope — one family
+                                                      at a time.
+                                                    </p>
+                                                  </div>
+                                                  <div className="dsvy-read-more-link">
+                                                    <a href="#">
+                                                      <span>Read more</span>
+                                                    </a>
+                                                  </div>
+                                                </div>
+                                              </div>
+                                            </div>
+                                          </article>
+                                          <article className="dsvy-ele dsvy-ele-blog dsvy-blog-style-2 col-md-4 discounts dsvy-term-14 dsvy-odd dsvy-col-odd">
+                                            <div className="post-item">
+                                              <div className="dsvy-featured-container">
+                                                <div className="dsvy-featured-wrapper">
+                                                  <img
+                                                    loading="lazy"
+                                                    decoding="async"
+                                                    width="770"
+                                                    height="635"
+                                                    src="/images/Out14.jpeg"
+                                                    className="attachment-dsvy-img-770x635 size-dsvy-img-770x635 wp-post-image"
+                                                    alt=""
+                                                  />
+                                                </div>
+                                                <div className="dsvy-meta-date">
+                                                  <span>Febuary 17, 2026</span>
+                                                </div>
+                                              </div>
+                                              <div className="designervily-box-content">
+                                                <div className="dsvy-meta-container">
+                                                  <div className="dsvy-meta-author-wrapper dsvy-meta-line">
+                                                    <a
+                                                      href="#"
+                                                      title="Posted by Admin"
+                                                      rel="author"
+                                                    >
+                                                      <i className="dsvy-base-icon-user"></i>
+                                                      Admin
+                                                    </a>
+                                                  </div>
+                                                  <div className="dsvy-meta-comment-wrapper dsvy-meta-line">
+                                                    <i className="dsvy-base-icon-chat-1"></i>
+                                                    <span className="dsvy-meta dsvy-meta-comments">
+                                                      Comments
+                                                    </span>
+                                                  </div>
+                                                </div>
+                                                <h3 className="dsvy-post-title">
+                                                  <a
+                                                    href="#"
+                                                    title="Go to Get the Exercise Tips for Limited Mobility"
+                                                  >
+                                                    Serving Every Generation
+                                                    with Compassion
+                                                  </a>
+                                                </h3>
+                                                <div className="designervily-box-desc">
+                                                  <div className="designervily-box-desc-text">
+                                                    <p>
+                                                      Our outreach program
+                                                      continues to impact lives
+                                                      across all age groups.
+                                                      During the recent
+                                                      screening exercise,
+                                                      elderly members of the
+                                                      community were warmly
+                                                      welcomed and attended to
+                                                      with care and respect. For
+                                                      many seniors, regular eye
+                                                      examinations are essential
+                                                      to maintaining
+                                                      independence and overall
+                                                      well-being. Through
+                                                      professional consultations
+                                                      and proper guidance, we
+                                                      ensured that they received
+                                                      the attention they deserve
+                                                      in a comfortable and
+                                                      supportive environment. We
+                                                      remain committed to
+                                                      providing accessible
+                                                      healthcare services that
+                                                      restore confidence,
+                                                      preserve dignity, and
+                                                      improve quality of life —
+                                                      for every generation in
+                                                      our community.
                                                     </p>
                                                   </div>
                                                   <div className="dsvy-read-more-link">
@@ -1479,7 +1738,7 @@ const Index = () => {
                                       <div className="dsvy-ptable-cols row multi-columns-row">
                                         <div className="dsvy-ptable-col col-md-12">
                                           <img
-                                            src="/images/Out03.jpeg"
+                                            src="/images/Out17.jpeg"
                                             className="rounded"
                                             alt=""
                                             srcset=""

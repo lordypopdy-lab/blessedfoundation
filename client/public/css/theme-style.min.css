@@ -29,13 +29,13 @@
 
 /* Image 1 */
 .slider-container::before {
-  background-image: url("https://cardioly-demo.pbminfotech.com/demo3/wp-content/uploads/sites/4/2020/10/slider-03-new-aaa.jpg");
+  background-image: url("/images/Out08.jpg");
   animation: fadeSlide 14s infinite;
 }
 
 /* Image 2 */
 .slider-container::after {
-  background-image: url("https://cardioly.designervily.com/demo3/wp-content/uploads/sites/4/2020/10/title.jpg");
+  background-image: url("/images/Out10.jpg");
   animation: fadeSlide 14s infinite;
   animation-delay: 7s;
 }
@@ -236,7 +236,7 @@
 .dsvy-title-bar-wrapper,
 .dsvy-title-bar-wrapper.dsvy-bg-color-custom:before {
   background-color: #f6f6f6;
-  background-image: url(https://cardioly.designervily.com/demo3/wp-content/uploads/sites/4/2020/10/title.jpg);
+  background-image: url(/images/Out10.jpg);
   background-repeat: no-repeat;
   background-position: center top;
   background-size: cover;
